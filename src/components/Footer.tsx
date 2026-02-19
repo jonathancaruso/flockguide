@@ -46,6 +46,7 @@ export function Footer() {
               <Link href="/affiliate-disclosure" className="hover:text-barn-300">Affiliate Disclosure</Link>
               <span>|</span>
               <Link href="/privacy" className="hover:text-barn-300">Privacy Policy</Link>
+              <Link href="/contact" className="hover:text-barn-300">Contact</Link>
               <span>|</span>
               <span>As an Amazon Associate, we earn from qualifying purchases.</span>
             </div>

@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/about`, lastModified: new Date() },
     { url: `${baseUrl}/affiliate-disclosure`, lastModified: new Date() },
     { url: `${baseUrl}/privacy`, lastModified: new Date() },
+    { url: `${baseUrl}/contact`, lastModified: new Date() },
     ...categoryUrls,
     ...articleUrls,
   ]
