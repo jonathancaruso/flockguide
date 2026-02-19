@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://backyardchickens.guide/sitemap.xml',
+    sitemap: 'https://flockguide.com/sitemap.xml',
   }
 }
