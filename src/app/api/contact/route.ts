@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN
-const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID
+const RESEND_API_KEY = process.env.RESEND_API_KEY
 
 export async function POST(req: NextRequest) {
   try {
@@ -11,26 +10,27 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'All fields are required' }, { status: 400 })
     }
 
-    // Basic validation
     if (name.length > 200 || email.length > 200 || message.length > 5000) {
       return NextResponse.json({ error: 'Input too long' }, { status: 400 })
     }
 
-    // Simple email format check
     if (!email.includes('@') || !email.includes('.')) {
       return NextResponse.json({ error: 'Invalid email' }, { status: 400 })
     }
 
-    // Send to Telegram
-    if (TELEGRAM_BOT_TOKEN && TELEGRAM_CHAT_ID) {
-      const text = `📬 FlockGuide Contact Form\n\nName: ${name}\nEmail: ${email}\n\n${message}`
-      await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+    if (RESEND_API_KEY) {
+      await fetch('https://api.resend.com/emails', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${RESEND_API_KEY}`,
+        },
         body: JSON.stringify({
-          chat_id: TELEGRAM_CHAT_ID,
-          text,
-          parse_mode: 'HTML',
+          from: 'FlockGuide <noreply@flockguide.com>',
+          to: 'jcaruso09@gmail.com',
+          subject: `FlockGuide Contact: ${name}`,
+          text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
+          reply_to: email,
         }),
       })
     }
