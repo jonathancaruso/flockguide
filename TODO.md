@@ -21,7 +21,7 @@
 - [x] "How to Build a Chicken Coop: Plans, Materials & Tips"
 - [x] "10 Best Chicken Breeds for Beginners"
 - [x] "Best Chicken Coops You Can Buy on Amazon (2026)"
-- [ ] "What Do Chickens Eat? Complete Feeding Guide"
+- [x] "What Do Chickens Eat? Complete Feeding Guide"
 - [ ] "How Many Chickens Should a Beginner Start With?"
 - [ ] "Raising Chicks: Week-by-Week Guide"
 - [ ] "Best Chicken Feeders and Waterers (2026 Reviews)"
