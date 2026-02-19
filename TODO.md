@@ -31,7 +31,7 @@
 - [x] "How Much Does It Cost to Raise Backyard Chickens?"
 - [x] "Best Egg Laying Breeds: Top 10 for Maximum Eggs"
 - [x] "Chicken Coop Bedding: Pine Shavings vs Straw vs Sand"
-- [ ] "How to Introduce New Chickens to Your Flock"
+- [x] "How to Introduce New Chickens to Your Flock"
 - [ ] "Rhode Island Red: Complete Breed Guide"
 - [ ] "Plymouth Rock: Complete Breed Guide"
 - [ ] "Buff Orpington: Complete Breed Guide"
