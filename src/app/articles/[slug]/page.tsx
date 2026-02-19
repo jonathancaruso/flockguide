@@ -74,7 +74,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const article = getArticleBySlug(slug)
   if (!article) return {}
   return {
-    title: `${article.title} - BackyardChickens Guide`,
+    title: `${article.title} - FlockGuide`,
     description: article.description,
     openGraph: {
       title: article.title,
@@ -95,7 +95,7 @@ export default async function ArticlePage({ params }: PageProps) {
     headline: article.title,
     description: article.description,
     datePublished: article.date,
-    author: { '@type': 'Organization', name: 'BackyardChickens Guide' },
+    author: { '@type': 'Organization', name: 'FlockGuide' },
   }
 
   return (

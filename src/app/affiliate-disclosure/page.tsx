@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Affiliate Disclosure - BackyardChickens Guide',
-  description: 'FTC affiliate disclosure for BackyardChickens Guide.',
+  title: 'Affiliate Disclosure - FlockGuide',
+  description: 'FTC affiliate disclosure for FlockGuide.',
 }
 
 export default function AffiliateDisclosurePage() {
@@ -11,7 +11,7 @@ export default function AffiliateDisclosurePage() {
       <h1 className="text-3xl font-bold text-gray-900 mb-6">Affiliate Disclosure</h1>
       <div className="prose max-w-none text-gray-700 leading-relaxed space-y-4">
         <p>
-          <strong>BackyardChickens Guide</strong> is a participant in the Amazon Services LLC
+          <strong>FlockGuide</strong> is a participant in the Amazon Services LLC
           Associates Program, an affiliate advertising program designed to provide a means for
           sites to earn advertising fees by advertising and linking to Amazon.com.
         </p>

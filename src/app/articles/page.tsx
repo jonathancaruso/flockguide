@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { getAllArticles } from '@/lib/articles'
 
 export const metadata = {
-  title: 'All Articles - BackyardChickens Guide',
+  title: 'All Articles - FlockGuide',
   description: 'Browse all our guides on raising backyard chickens. Breed profiles, coop plans, feeding tips, health advice, and gear reviews.',
 }
 

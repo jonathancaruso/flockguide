@@ -21,7 +21,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center space-x-2">
             <span className="text-2xl">🐔</span>
-            <span className="text-xl font-bold text-farm-700">BackyardChickens</span>
+            <span className="text-xl font-bold text-farm-700">FlockGuide</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-6">

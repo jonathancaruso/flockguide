@@ -10,7 +10,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <span className="text-2xl">🐔</span>
-              <span className="text-xl font-bold text-white">BackyardChickens</span>
+              <span className="text-xl font-bold text-white">FlockGuide</span>
             </Link>
             <p className="text-sm text-gray-400 max-w-md">
               Practical advice for raising happy, healthy backyard chickens. Written by
@@ -41,7 +41,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-sm text-gray-400">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p>&copy; {currentYear} BackyardChickens Guide. All rights reserved.</p>
+            <p>&copy; {currentYear} FlockGuide. All rights reserved.</p>
             <div className="flex items-center gap-4 text-xs">
               <Link href="/affiliate-disclosure" className="hover:text-barn-300">Affiliate Disclosure</Link>
               <span>|</span>

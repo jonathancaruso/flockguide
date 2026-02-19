@@ -1,14 +1,14 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'About - BackyardChickens Guide',
-  description: 'Learn about BackyardChickens Guide and why we created this site to help new chicken keepers.',
+  title: 'About - FlockGuide',
+  description: 'Learn about FlockGuide and why we created this site to help new chicken keepers.',
 }
 
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
-      <h1 className="text-3xl font-bold text-gray-900 mb-6">About BackyardChickens Guide</h1>
+      <h1 className="text-3xl font-bold text-gray-900 mb-6">About FlockGuide</h1>
       <div className="prose max-w-none text-gray-700 leading-relaxed space-y-4">
         <p>
           We started this site because getting into backyard chickens should not require a

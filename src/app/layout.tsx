@@ -7,7 +7,7 @@ import { Footer } from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'BackyardChickens Guide - Raising Happy, Healthy Chickens',
+  title: 'FlockGuide - Raising Happy, Healthy Chickens',
   description: 'Everything you need to know about raising backyard chickens. Breed guides, coop plans, feeding tips, and gear reviews from real chicken keepers.',
   keywords: ['backyard chickens', 'raising chickens', 'chicken breeds', 'chicken coop', 'egg laying hens', 'beginner chickens'],
 }

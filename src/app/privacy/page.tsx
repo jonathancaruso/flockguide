@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - BackyardChickens Guide',
-  description: 'Privacy policy for BackyardChickens Guide.',
+  title: 'Privacy Policy - FlockGuide',
+  description: 'Privacy policy for FlockGuide.',
 }
 
 export default function PrivacyPage() {
@@ -14,7 +14,7 @@ export default function PrivacyPage() {
 
         <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Information We Collect</h2>
         <p>
-          BackyardChickens Guide does not require you to create an account or provide any
+          FlockGuide does not require you to create an account or provide any
           personal information to use this site. We may collect standard web analytics data
           (page views, browser type, general location) to understand how people use the site
           and improve our content.

@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const cat = categories[slug]
   if (!cat) return {}
   return {
-    title: `${cat.name} - BackyardChickens Guide`,
+    title: `${cat.name} - FlockGuide`,
     description: cat.description,
   }
 }
