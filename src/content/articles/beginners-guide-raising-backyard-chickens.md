@@ -248,4 +248,26 @@ Here's your action list:
 
 You're going to love it. Chickens are funny, relaxing to watch, and incredibly satisfying to care for. And once you crack that first fresh egg into a pan, you'll wonder why you didn't start sooner.
 
+## Frequently Asked Questions
+
+### Do backyard chickens smell bad?
+
+Not if you keep their coop reasonably clean. Spot-clean droppings a couple times a week and do a full bedding swap monthly. Deep litter method also works great and actually reduces odor over time. Most backyard flocks don't produce noticeable smell beyond a few feet from the coop.
+
+### How much time per day do chickens take?
+
+Plan on about 10 to 15 minutes daily for feeding, watering, and checking on your birds. Weekly coop cleaning adds maybe 30 minutes. It's honestly less work than walking a dog. The biggest time investment is the initial setup and learning curve.
+
+### Can I raise chickens in a small backyard?
+
+Yes, as long as your local laws allow it. A small flock of 3 to 4 hens needs about 12 to 16 square feet of coop space and 40 to 60 square feet of run space. That fits in most suburban yards. You don't need acreage to keep chickens successfully.
+
+### Do I need a rooster for hens to lay eggs?
+
+No. Hens lay eggs on their own without a rooster present. You only need a rooster if you want fertilized eggs for hatching chicks. Most city and suburban ordinances ban roosters anyway because of the noise, so this works out fine.
+
+### What's the biggest mistake beginners make with chickens?
+
+Underbuilding the coop is the most common one. People buy a "6-chicken coop" that barely fits 3 birds comfortably. Build bigger than you think you need. Also, skimping on predator protection causes a lot of heartbreak. Use hardware cloth, not chicken wire.
+
 Got questions? Check out our [breed guide](/articles/best-chicken-breeds-for-beginners) to pick the right birds, or browse our [gear reviews](/categories/gear-reviews) to find the best coops, feeders, and supplies.

@@ -222,4 +222,22 @@ Our top pick for most beginners is the **Aivituvin Large Wooden Coop** for the b
 
 Whatever you choose, remember: the best coop is one that keeps your birds safe, dry, and comfortable. Everything else is a bonus.
 
+## Frequently Asked Questions
+
+### Are Amazon chicken coops any good?
+
+Some are, some aren't. The cheap ones under $150 tend to be flimsy and won't last more than a season or two. Mid-range coops ($200 to $400) from brands like Aivituvin and OverEZ are solid for small flocks. Always reinforce with hardware cloth regardless of what you buy.
+
+### How big of a coop do I need for 6 chickens?
+
+You'll want at least 24 square feet of indoor coop space (4 square feet per bird) plus 60 square feet of run space. Most Amazon coops advertised for "6 chickens" are actually tight for that many. Size up when possible since your birds will be happier.
+
+### Should I buy a coop or build one?
+
+It depends on your skills and budget. Prefab coops save time and work fine for small flocks. Building your own costs about the same but gives you better quality control and customization. If you're handy at all, building is usually the better long-term investment.
+
+### Do I need to modify an Amazon coop?
+
+Almost always, yes. Most prefab coops come with chicken wire, which won't stop raccoons or foxes. Replace it with 1/2-inch hardware cloth. Adding extra latches, sealing gaps, and weatherproofing the wood are also smart moves that'll extend its life significantly.
+
 Ready to pick your breeds? Check out our [10 Best Chicken Breeds for Beginners](/articles/best-chicken-breeds-for-beginners) or head back to the [full beginner's guide](/articles/beginners-guide-raising-backyard-chickens).

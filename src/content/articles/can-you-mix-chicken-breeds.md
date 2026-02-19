@@ -139,4 +139,22 @@ Mixing chicken breeds works great for most backyard flocks. It's actually the no
 
 Do that, and your mixed flock will sort itself out. They'll establish their pecking order, figure out who sleeps where, and get on with the business of eating bugs and laying eggs.
 
+## Frequently Asked Questions
+
+### Will different chicken breeds fight each other?
+
+There'll be some pecking order stuff no matter what, but outright fighting is rare if you match breeds with similar temperaments. Avoid pairing very aggressive breeds like Asils with docile ones like Silkies. Similar-sized, mellow breeds mix together without much drama.
+
+### Can I mix bantams with standard-size chickens?
+
+You can, but watch carefully. Standard chickens can bully bantams due to the size difference. It works best when they're raised together from chicks. Provide extra hiding spots and multiple feeders so smaller birds can eat without getting pushed around.
+
+### Do mixed flocks lay fewer eggs?
+
+No. Each hen lays based on her breed's genetics regardless of who else is in the flock. A mixed flock actually gives you a fun variety of egg colors and sizes. You might get brown, white, blue, and green eggs from the same coop.
+
+### How do I introduce new breeds to an existing flock?
+
+Add at least two new birds at a time so nobody's singled out. Keep them separated but visible for a week or two, then let them mingle supervised. Nighttime introductions work well since chickens are groggy and less territorial when they're settling in to roost.
+
 *Have questions about specific breed combinations? Check out our [breed guide for beginners](/articles/best-chicken-breeds-for-beginners) or our [complete beginner's guide](/articles/beginners-guide-raising-backyard-chickens) to get started.*

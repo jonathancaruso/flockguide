@@ -7,6 +7,8 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import type { Components } from 'react-markdown'
 import { getArticleBySlug, getAllSlugs } from '@/lib/articles'
+import TableOfContents, { extractH2s } from '@/components/TableOfContents'
+import FAQSchema, { extractFAQs } from '@/components/FAQSchema'
 import type { Metadata } from 'next'
 
 // Markdown components styled for chicken site
@@ -36,12 +38,16 @@ const markdownComponents: Components = {
       {children}
     </blockquote>
   ),
-  h2: ({ children }) => (
-    <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mt-12 mb-6 pb-3 border-b-2 border-farm-200 flex items-center gap-3">
-      <span className="w-1.5 h-8 bg-gradient-to-b from-farm-400 to-farm-600 rounded-full"></span>
-      {children}
-    </h2>
-  ),
+  h2: ({ children }) => {
+    const text = typeof children === 'string' ? children : Array.isArray(children) ? children.map(c => typeof c === 'string' ? c : '').join('') : ''
+    const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
+    return (
+      <h2 id={id} className="text-2xl md:text-3xl font-bold text-gray-900 mt-12 mb-6 pb-3 border-b-2 border-farm-200 flex items-center gap-3 scroll-mt-20">
+        <span className="w-1.5 h-8 bg-gradient-to-b from-farm-400 to-farm-600 rounded-full"></span>
+        {children}
+      </h2>
+    )
+  },
   h3: ({ children }) => (
     <h3 className="text-xl md:text-2xl font-semibold text-gray-800 mt-8 mb-4 flex items-center gap-2">
       <span className="text-barn-400">◆</span>
@@ -96,6 +102,9 @@ export default async function ArticlePage({ params }: PageProps) {
   const article = getArticleBySlug(slug)
   if (!article) notFound()
 
+  const tocItems = extractH2s(article.content)
+  const faqs = extractFAQs(article.content)
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -111,6 +120,7 @@ export default async function ArticlePage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <FAQSchema faqs={faqs} />
       <div className="max-w-4xl mx-auto px-4 py-12">
         <Link
           href="/articles"
@@ -150,6 +160,7 @@ export default async function ArticlePage({ params }: PageProps) {
           </header>
 
           <div className="px-8 md:px-12 py-10 md:py-12">
+            <TableOfContents items={tocItems} />
             <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
               {article.content}
             </ReactMarkdown>

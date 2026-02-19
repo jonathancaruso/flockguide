@@ -182,6 +182,24 @@ Ready to get started? Here's what to read next:
 - [10 Best Chicken Breeds for Beginners](/articles/best-chicken-breeds-for-beginners) - Find the perfect breeds for your first flock
 - [What Do Chickens Eat? Complete Feeding Guide](/articles/what-do-chickens-eat-complete-feeding-guide) - Nutrition basics for happy, healthy hens
 
+## Frequently Asked Questions
+
+### Is 2 chickens enough to start with?
+
+Two is the absolute minimum since chickens need companionship. But 3 to 4 is better because if one dies, you won't be left with a single lonely bird. Starting with 3 gives you a buffer and is still very manageable for a beginner.
+
+### How many chickens do I need for a family of 4?
+
+Figure each hen lays about 4 to 5 eggs per week on average. For a family of 4 that eats eggs regularly, 4 to 6 hens will keep you well supplied. You'll even have extras to share with neighbors during peak laying season.
+
+### What happens if I start with too many chickens?
+
+You'll need more coop space, more feed, and more time cleaning. The coop gets dirtier faster, birds can get stressed from overcrowding, and your feed bill climbs quick. It's easier to add chickens later than to deal with an overcrowded flock from day one.
+
+### Should I buy chicks or started pullets?
+
+Chicks cost $3 to $5 each but need 6 months before they lay. Started pullets cost $20 to $30 but give you eggs within weeks. If you want eggs fast with less work, go with pullets. If you want the full experience and don't mind waiting, chicks are rewarding.
+
 ---
 
 *This article contains affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you. See our [FTC disclosure](/ftc-disclosure) for details.*
