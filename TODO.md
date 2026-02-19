@@ -18,7 +18,7 @@
 
 ## Phase 2: Core Content (20 articles)
 - [x] "Complete Beginner's Guide to Raising Backyard Chickens"
-- [ ] "How to Build a Chicken Coop: Plans, Materials & Tips"
+- [x] "How to Build a Chicken Coop: Plans, Materials & Tips"
 - [x] "10 Best Chicken Breeds for Beginners"
 - [x] "Best Chicken Coops You Can Buy on Amazon (2026)"
 - [ ] "What Do Chickens Eat? Complete Feeding Guide"
