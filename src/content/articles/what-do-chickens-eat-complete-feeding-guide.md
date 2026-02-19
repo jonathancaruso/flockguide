@@ -22,6 +22,8 @@ According to [Oregon State University Extension](https://extension.oregonstate.e
 
 That doesn't mean treats and scraps are off limits. It just means they're extras, not the main course.
 
+![Baby chick standing next to a red waterer and feeder in a brooder](/images/articles/baby-chick-waterer-feeder.jpg)
+
 ## Feeding by Age: What to Use When
 
 Chickens have different nutritional needs at different life stages. Using the wrong feed at the wrong time can hurt egg production or even cause health problems down the road.
@@ -65,6 +67,8 @@ Layer feeds contain about 16 to 18% crude protein and, critically, extra calcium
 If you keep birds of different ages together, feeding gets a little tricky. You can't give layer feed to young birds, but your layers need that extra calcium.
 
 The simplest solution: feed everyone an all-flock or grower feed (16% protein, low calcium), and provide oyster shell in a separate dish. Laying hens will eat the oyster shell when they need it. The younger birds will mostly ignore it.
+
+![Chickens eating from red feeders inside a bright spacious coop](/images/articles/chickens-eating-feed-coop.jpg)
 
 ## How Much Do Chickens Eat?
 
@@ -157,6 +161,8 @@ Treats should make up no more than 10% of your flock's diet. Think of them like 
 
 **Other:** Plain yogurt in small amounts, sunflower seeds (black oil sunflower seeds are popular), scratch grains as an occasional treat
 
+![Close-up of dried mealworms — a high-protein treat for backyard chickens](/images/articles/dried-mealworms-chicken-treat.jpg)
+
 ### Dried Mealworms: The Ultimate Chicken Treat
 
 If you want to make your chickens love you, get a bag of dried mealworms. They will come running from across the yard when they hear that bag crinkle. Mealworms are high in protein (about 50%) and make a great treat, especially during molt when birds need extra protein to regrow feathers.
@@ -202,6 +208,8 @@ This one is easy to overlook, but water is the single most important thing you p
 - Nipple waterers stay cleaner than open troughs since chickens can't scratch bedding into them
 
 Dehydration will tank egg production faster than almost anything else. If your hens suddenly stop laying, check their water supply first.
+
+![Two chickens foraging on a farm, highlighting free-range feeding behavior](/images/articles/chickens-free-range-foraging.jpg)
 
 ## Free Ranging and Foraging
 

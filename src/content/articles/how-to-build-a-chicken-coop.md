@@ -39,6 +39,8 @@ Here are the space requirements recommended by university poultry programs:
 
 Here's a smart tip from the r/BackYardChickens community: build in 8-foot increments, because that's the standard length lumber comes in. You'll waste less wood and spend less money. ([Source](https://www.reddit.com/r/BackYardChickens/comments/16sqnrm/cant_decide_on_coop_plans_we_want_to_build_a_coop/))
 
+![A curious hen peeking through a rustic wooden coop door](/images/articles/hen-peeking-coop-door.jpg)
+
 ## Choosing a Location
 
 Where you put your coop matters just as much as how you build it.
@@ -106,6 +108,8 @@ Place nesting boxes **lower than your roosting bars**. Chickens always want to s
 The University of Maryland Extension suggests mounting boxes **18 to 20 inches off the floor** for mature hens ([Source](https://extension.umd.edu/resource/coop-construction-general-requirements)). Adding a small lip across the front keeps bedding and eggs from rolling out.
 
 Build the nesting boxes with a hinged lid that opens from outside the coop. This lets you collect eggs without going inside, which is a huge convenience, especially in bad weather.
+
+![Three chickens roosting on a wooden perch inside a dimly lit coop](/images/articles/chickens-roosting-perch-night.jpg)
 
 ### Roosting Bars
 
@@ -277,6 +281,8 @@ You don't need a workshop full of power tools. Here's the minimum:
 - **Safety glasses and gloves** (hardware cloth edges are sharp)
 
 If you don't own these, see if your local hardware store has a tool rental program. Many Home Depot and Lowe's locations rent saws and drills for reasonable daily rates.
+
+![Roosters and hens foraging in tall grass on a sunny day](/images/articles/chickens-foraging-grass.jpg)
 
 ## Making It Easy to Maintain
 

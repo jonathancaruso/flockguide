@@ -18,6 +18,8 @@ The problem is that Amazon is flooded with chicken coops, and honestly, a lot of
 
 Here's what we found.
 
+![Rustic wooden chicken coop with hay bedding in a backyard garden setting](/images/articles/backyard-chicken-coop-garden.jpg)
+
 ## What to Look for in a Pre-Made Coop
 
 Before we get into specific picks, here is what separates a good coop from a bad one:
@@ -161,6 +163,8 @@ If you can't free-range your birds (maybe you have dogs, hawks, or local regulat
 
 [Check Price on Amazon](https://www.amazon.com/s?k=Morgete+walk-in+chicken+coop+run&tag=backyardchx-20)
 
+![White chickens perched on roosting bars inside a wooden coop](/images/articles/chickens-roosting-bar-coop.jpg)
+
 ## Essential Modifications for Any Pre-Made Coop
 
 No matter which coop you buy, plan to make these upgrades:
@@ -178,6 +182,8 @@ Most coops come with untreated wood. A coat of exterior wood sealer or paint (us
 
 ### Add a Droppings Board
 A piece of plywood or a plastic tray placed under the roosts catches overnight droppings. Scrape it off every morning and your coop stays much cleaner between deep cleans.
+
+![Chickens behind wire fencing in an outdoor chicken run](/images/articles/chickens-behind-wire-fence.jpg)
 
 ## Coop Accessories Worth Buying
 

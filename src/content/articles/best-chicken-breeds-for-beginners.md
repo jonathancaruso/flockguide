@@ -64,6 +64,8 @@ If Rhode Island Reds are the reliable sedan, Buff Orpingtons are the big fluffy 
 | Heat Tolerant | Fair |
 | Beginner Rating | ★★★★★ |
 
+![Barred Plymouth Rock chicken showing classic black-and-white striped plumage](/images/articles/barred-plymouth-rock-chicken.jpg)
+
 ## 3. Plymouth Rock (Barred Rock)
 
 The Barred Rock is one of the oldest American chicken breeds, and it has stuck around this long because it does everything well. Good eggs, good personality, good in most climates. No real weaknesses.
@@ -153,6 +155,8 @@ The Speckled Sussex is a gorgeous bird with a personality to match. Their mahoga
 | Cold Hardy | Good |
 | Heat Tolerant | Good |
 | Beginner Rating | ★★★★☆ |
+
+![Silver Laced Wyandotte chicken with distinctive black-edged white feathers](/images/articles/silver-laced-wyandotte-chicken.jpg)
 
 ## 7. Wyandotte (Silver Laced)
 
@@ -245,6 +249,8 @@ ISA Browns are a commercial hybrid bred specifically for maximum egg production 
 | Cold Hardy | Good |
 | Heat Tolerant | Good |
 | Beginner Rating | ★★★★★ |
+
+![Colorful chicken eggs in shades of brown, blue, and green in a wooden bowl](/images/articles/colorful-chicken-eggs-bowl.jpg)
 
 ## How to Choose the Right Breed for You
 

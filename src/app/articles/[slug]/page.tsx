@@ -25,6 +25,12 @@ const markdownComponents: Components = {
   tbody: ({ children }) => <tbody className="divide-y divide-farm-100">{children}</tbody>,
   tr: ({ children }) => <tr className="hover:bg-farm-50 transition-colors">{children}</tr>,
   td: ({ children }) => <td className="px-4 py-3 text-gray-700">{children}</td>,
+  img: ({ src, alt }) => (
+    <figure className="my-8">
+      <img src={src || ''} alt={alt || ''} className="w-full rounded-xl shadow-md" loading="lazy" />
+      {alt && <figcaption className="mt-2 text-center text-sm text-gray-500 italic">{alt}</figcaption>}
+    </figure>
+  ),
   blockquote: ({ children }) => (
     <blockquote className="my-6 pl-6 pr-4 py-4 bg-barn-50 border-l-4 border-barn-300 rounded-r-lg italic text-gray-700">
       {children}
