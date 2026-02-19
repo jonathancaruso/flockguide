@@ -25,7 +25,7 @@
 - [x] "How Many Chickens Should a Beginner Start With?"
 - [x] "Raising Chicks: Week-by-Week Guide"
 - [x] "Best Chicken Feeders and Waterers (2026 Reviews)"
-- [ ] "How to Keep Chickens Warm in Winter"
+- [x] "How to Keep Chickens Warm in Winter"
 - [ ] "Best Heat Lamps and Coop Heaters for Chickens"
 - [ ] "Chicken Predators: How to Protect Your Flock"
 - [ ] "How Much Does It Cost to Raise Backyard Chickens?"
