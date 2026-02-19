@@ -46,6 +46,7 @@
 - [ ] Seasonal care series (spring, summer, fall, winter)
   - [x] Spring Chicken Care: 10-Step Checklist (2026-02-19)
 - [ ] Troubleshooting guides (sick chicken symptoms, egg problems)
+  - [x] 12 Sick Chicken Symptoms Every Owner Should Recognize (2026-02-19)
 - [ ] Advanced topics (hatching, roosters, free ranging)
 - [ ] More gear reviews (incubators, egg baskets, run netting, cameras)
 - [ ] State-specific content ("Raising Chickens in Georgia", laws by state)
