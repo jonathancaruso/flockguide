@@ -29,7 +29,7 @@
 - [x] "Best Heat Lamps and Coop Heaters for Chickens"
 - [x] "Chicken Predators: How to Protect Your Flock"
 - [ ] "How Much Does It Cost to Raise Backyard Chickens?"
-- [ ] "Best Egg Laying Breeds: Top 10 for Maximum Eggs"
+- [x] "Best Egg Laying Breeds: Top 10 for Maximum Eggs"
 - [ ] "Chicken Coop Bedding: Pine Shavings vs Straw vs Sand"
 - [ ] "How to Introduce New Chickens to Your Flock"
 - [ ] "Rhode Island Red: Complete Breed Guide"
