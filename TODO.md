@@ -34,7 +34,7 @@
 - [x] "How to Introduce New Chickens to Your Flock"
 - [x] "Rhode Island Red: Complete Breed Guide"
 - [x] "Plymouth Rock: Complete Breed Guide"
-- [ ] "Buff Orpington: Complete Breed Guide"
+- [x] "Buff Orpington: Complete Breed Guide"
 - [ ] "Australorp: Complete Breed Guide"
 - [ ] "Easter Egger: Complete Breed Guide"
 
