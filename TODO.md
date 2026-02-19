@@ -36,7 +36,7 @@
 - [x] "Plymouth Rock: Complete Breed Guide"
 - [x] "Buff Orpington: Complete Breed Guide"
 - [x] "Australorp: Complete Breed Guide"
-- [ ] "Easter Egger: Complete Breed Guide"
+- [x] "Easter Egger: Complete Breed Guide"
 
 ## Phase 3: Expansion Content (30 more articles)
 - [ ] More breed guides (aim for 20+ breeds)
