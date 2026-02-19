@@ -22,7 +22,7 @@ export default function Home() {
     {
       slug: 'best-chicken-coops-amazon-2026',
       title: 'Best Chicken Coops You Can Buy on Amazon (2026)',
-      excerpt: 'We looked at dozens of pre-made coops so you do not have to. Here are the ones actually worth your money.',
+      excerpt: 'We looked at dozens of pre-made coops so you don't have to. Here are the ones actually worth your money.',
       category: 'Gear Reviews',
       readTime: '9 min read',
       image: '/images/articles/wooden-chicken-coop.jpg',
@@ -30,7 +30,7 @@ export default function Home() {
   ]
 
   const categories = [
-    { name: 'Beginner Guides', slug: 'beginner-guides', emoji: '📖', desc: 'Start here if you are new to chickens' },
+    { name: 'Beginner Guides', slug: 'beginner-guides', emoji: '📖', desc: 'Start here if you're new to chickens' },
     { name: 'Breeds', slug: 'breeds', emoji: '🐓', desc: 'Find the right breed for your flock' },
     { name: 'Coops & Housing', slug: 'coops-and-housing', emoji: '🏠', desc: 'Shelters, runs, and nesting boxes' },
     { name: 'Feed & Nutrition', slug: 'feed-and-nutrition', emoji: '🌽', desc: 'What to feed your birds and when' },
@@ -153,7 +153,7 @@ export default function Home() {
               <p>
                 Chickens are also surprisingly fun to hang out with. They have real personalities.
                 Some will follow you around the yard like puppies. Others will boss the whole
-                flock around. You will pick favorites (and that is OK).
+                flock around. You'll pick favorites (and that is OK).
               </p>
             </div>
             <div>
@@ -163,7 +163,7 @@ export default function Home() {
               </p>
               <p>
                 Getting started is easier than most people think. A small flock of 3 to 4 hens
-                does not need much space, and the daily time commitment is about 10 minutes.
+                doesn't need much space, and the daily time commitment is about 10 minutes.
                 We will walk you through everything.
               </p>
             </div>

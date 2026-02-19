@@ -14,7 +14,7 @@ export default function PrivacyPage() {
 
         <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Information We Collect</h2>
         <p>
-          FlockGuide does not require you to create an account or provide any
+          FlockGuide doesn't require you to create an account or provide any
           personal information to use this site. We may collect standard web analytics data
           (page views, browser type, general location) to understand how people use the site
           and improve our content.
@@ -31,7 +31,7 @@ export default function PrivacyPage() {
         <p>
           This site contains affiliate links to Amazon and other retailers. When you click
           these links, the retailer may place cookies on your device to track the referral.
-          This is standard practice for affiliate programs and does not give us access to
+          This is standard practice for affiliate programs and doesn't give us access to
           your personal information.
         </p>
 

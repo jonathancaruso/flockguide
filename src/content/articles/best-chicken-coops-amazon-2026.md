@@ -16,7 +16,7 @@ Building your own coop is great if you have the time, tools, and carpentry skill
 
 The problem is that Amazon is flooded with chicken coops, and honestly, a lot of them are junk. Thin wood, flimsy hardware, misleading size claims, and chicken wire instead of hardware cloth. We dug through reviews, specs, and real-world feedback to find the coops that are actually worth buying.
 
-Here is what we found.
+Here's what we found.
 
 ## What to Look for in a Pre-Made Coop
 
@@ -26,11 +26,11 @@ Before we get into specific picks, here is what separates a good coop from a bad
 
 **Material quality.** Look for solid wood (cedar or fir are best), not particle board or ultra-thin plywood. Thicker wood lasts longer and insulates better.
 
-**Hardware cloth vs. chicken wire.** Hardware cloth (the stuff with the small square openings) keeps predators out. Chicken wire only keeps chickens in. Most pre-made coops come with chicken wire, which means you will need to add hardware cloth yourself. Budget an extra $20 to $40 for this upgrade.
+**Hardware cloth vs. chicken wire.** Hardware cloth (the stuff with the small square openings) keeps predators out. Chicken wire only keeps chickens in. Most pre-made coops come with chicken wire, which means you'll need to add hardware cloth yourself. Budget an extra $20 to $40 for this upgrade.
 
 **Ventilation.** Good coops have vents near the roofline. Poor ventilation causes moisture buildup, which leads to frostbite and respiratory problems.
 
-**Easy cleaning access.** A pull-out tray or large access door makes cleaning 10 times easier. You will be cleaning this thing every week, so this matters more than you think.
+**Easy cleaning access.** A pull-out tray or large access door makes cleaning 10 times easier. You'll be cleaning this thing every week, so this matters more than you think.
 
 **Predator-proof latches.** Raccoons can open simple slide latches. You want something that requires two steps to open, or plan to add carabiners yourself.
 
@@ -61,7 +61,7 @@ This is our top pick for most backyard flocks of 3 to 5 hens. Aivituvin has beco
 
 ## Best Budget: PawHut Wooden Chicken Coop with Run
 
-If you are just getting started and do not want to spend $300+, PawHut makes a decent entry-level coop that gets the job done for a small flock.
+If you're just getting started and don't want to spend $300+, PawHut makes a decent entry-level coop that gets the job done for a small flock.
 
 **What we like:**
 
@@ -73,9 +73,9 @@ If you are just getting started and do not want to spend $300+, PawHut makes a d
 
 **What could be better:**
 
-- The wood is thinner than the Aivituvin. It works, but do not expect it to last 10 years.
+- The wood is thinner than the Aivituvin. It works, but don't expect it to last 10 years.
 - Space is tight for more than 2 to 3 birds
-- You will definitely need to replace the chicken wire with hardware cloth
+- You'll definitely need to replace the chicken wire with hardware cloth
 - Latches are basic and need upgrading for raccoon country
 
 **Best for:** 2 to 3 hens on a tight budget. Good "starter coop" while you figure out if chicken keeping is for you.
@@ -86,7 +86,7 @@ If you are just getting started and do not want to spend $300+, PawHut makes a d
 
 ## Best for Larger Flocks: OverEZ Large Chicken Coop
 
-When you have 6 to 10 birds and need real space, the OverEZ Large is one of the better pre-fab options. It is a walk-in design, which makes cleaning and daily chores much easier on your back.
+When you have 6 to 10 birds and need real space, the OverEZ Large is one of the better pre-fab options. It's a walk-in design, which makes cleaning and daily chores much easier on your back.
 
 **What we like:**
 
@@ -101,7 +101,7 @@ When you have 6 to 10 birds and need real space, the OverEZ Large is one of the 
 
 - The price is significantly higher than smaller coops
 - Heavy and takes 2 people to assemble
-- Does not include a run (you will need to build or buy one separately)
+- Doesn't include a run (you'll need to build or buy one separately)
 - Some assembly steps require basic tools and patience
 
 **Best for:** Serious chicken keepers with 6+ birds who want a coop that will last for years.
@@ -121,13 +121,13 @@ If you want to move your coop around the yard so your birds can forage on fresh 
 - Predator-resistant design with no gaps
 - Excellent ventilation
 - Snaps together without tools
-- UV-resistant, does not fade in the sun
+- UV-resistant, doesn't fade in the sun
 
 **What could be better:**
 
 - Looks like a plastic box (not the prettiest coop in the world)
 - Interior space is best for 3 to 4 birds
-- No attached run (you will need to add one or free-range)
+- No attached run (you'll need to add one or free-range)
 - Higher price for the size compared to wood coops
 
 **Best for:** People who want a low-maintenance, moveable coop. Great for rotational grazing.
@@ -138,7 +138,7 @@ If you want to move your coop around the yard so your birds can forage on fresh 
 
 ## Best Coop with Large Run: Morgete Walk-In Chicken Coop
 
-If you cannot free-range your birds (maybe you have dogs, hawks, or local regulations), you need a coop with a big attached run. The Morgete walk-in design gives your flock plenty of enclosed outdoor space.
+If you can't free-range your birds (maybe you have dogs, hawks, or local regulations), you need a coop with a big attached run. The Morgete walk-in design gives your flock plenty of enclosed outdoor space.
 
 **What we like:**
 
@@ -151,11 +151,11 @@ If you cannot free-range your birds (maybe you have dogs, hawks, or local regula
 **What could be better:**
 
 - Assembly takes a while (plan for a full afternoon)
-- The coop section itself is not huge, so stick to 4 to 6 birds
+- The coop section itself isn't huge, so stick to 4 to 6 birds
 - Wire mesh on the run is better than chicken wire but still not hardware cloth
 - The roof cover may not hold up in heavy snow areas
 
-**Best for:** 4 to 6 hens that will not have free-range access. Good for suburban lots with predator concerns.
+**Best for:** 4 to 6 hens that won't have free-range access. Good for suburban lots with predator concerns.
 
 **Price range:** $250 to $400.
 
@@ -183,7 +183,7 @@ A piece of plywood or a plastic tray placed under the roosts catches overnight d
 
 Once you have the coop, here are the accessories that actually make a difference:
 
-**Automatic coop door** ($80 to $150). Opens at dawn, closes at dusk. Worth every penny if you do not want to walk out in your pajamas every morning and evening. We like the ChickenGuard and Omlet brands.
+**Automatic coop door** ($80 to $150). Opens at dawn, closes at dusk. Worth every penny if you don't want to walk out in your pajamas every morning and evening. We like the ChickenGuard and Omlet brands.
 
 [Check Price on Amazon: Automatic Chicken Coop Door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=backyardchx-20)
 
@@ -206,13 +206,13 @@ We looked at over 40 coops on Amazon and narrowed it down based on:
 - Ease of assembly and cleaning
 - Value for the price
 
-We did not include any coop with fewer than 100 reviews or an average rating below 4.0 stars. We also skipped coops with known structural issues that multiple reviewers flagged.
+We didn't include any coop with fewer than 100 reviews or an average rating below 4.0 stars. We also skipped coops with known structural issues that multiple reviewers flagged.
 
 ## Final Thoughts
 
 A pre-made coop is a perfectly fine way to start keeping chickens. The key is knowing what to expect: most of them need a few modifications out of the box, but with an extra $30 to $50 in upgrades, you can turn a decent coop into a great one.
 
-Our top pick for most beginners is the **Aivituvin Large Wooden Coop** for the best balance of quality, features, and price. If you are on a tighter budget, the **PawHut** gets you started for under $200. And if you have a bigger flock, the **OverEZ** is worth the investment.
+Our top pick for most beginners is the **Aivituvin Large Wooden Coop** for the best balance of quality, features, and price. If you're on a tighter budget, the **PawHut** gets you started for under $200. And if you have a bigger flock, the **OverEZ** is worth the investment.
 
 Whatever you choose, remember: the best coop is one that keeps your birds safe, dry, and comfortable. Everything else is a bonus.
 

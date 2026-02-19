@@ -14,11 +14,11 @@ image: "/images/articles/chickens-in-coop.jpg"
 
 Building your own chicken coop is one of the most satisfying parts of getting into backyard chickens. You end up with something that fits your yard, fits your flock, and costs less than most pre-built options. Plus, you can customize it exactly the way you want.
 
-The good news? You do not need to be a master carpenter. Plenty of first-time builders have put together solid, functional coops with basic tools and a weekend or two of work. One Reddit user on r/BackYardChickens put it perfectly: "I (63F) looked for free shed patterns online... I have never built anything beyond IKEA furniture, but I just looked at it like Lego instructions and just went a step at a time." ([Source](https://www.reddit.com/r/BackYardChickens/comments/1l9xhpk/how_do_i_build_a_chicken_coop_from_scratch/))
+The good news? You don't need to be a master carpenter. Plenty of first-time builders have put together solid, functional coops with basic tools and a weekend or two of work. One Reddit user on r/BackYardChickens put it perfectly: "I (63F) looked for free shed patterns online... I have never built anything beyond IKEA furniture, but I just looked at it like Lego instructions and just went a step at a time." ([Source](https://www.reddit.com/r/BackYardChickens/comments/1l9xhpk/how_do_i_build_a_chicken_coop_from_scratch/))
 
 This guide walks you through everything: figuring out the right size, picking materials, building it step by step, and avoiding the mistakes that catch most beginners.
 
-If building from scratch is not your thing, check out our guide to the [best chicken coops you can buy on Amazon](/articles/best-chicken-coops-amazon-2026) instead.
+If building from scratch isn't your thing, check out our guide to the [best chicken coops you can buy on Amazon](/articles/best-chicken-coops-amazon-2026) instead.
 
 ## Start with Size: How Big Should Your Coop Be?
 
@@ -35,9 +35,9 @@ Here are the space requirements recommended by university poultry programs:
 - **8 to 10 square feet per bird** minimum
 - More is always better. Crowded chickens get stressed, pick at each other, and lay fewer eggs
 
-**Practical example:** If you want 6 chickens, your coop should be at least 24 square feet inside (a 4x6 foot footprint works), with a run of at least 60 square feet. But plan for 8 to 10 birds. You will thank yourself later.
+**Practical example:** If you want 6 chickens, your coop should be at least 24 square feet inside (a 4x6 foot footprint works), with a run of at least 60 square feet. But plan for 8 to 10 birds. You'll thank yourself later.
 
-Here is a smart tip from the r/BackYardChickens community: build in 8-foot increments, because that is the standard length lumber comes in. You will waste less wood and spend less money. ([Source](https://www.reddit.com/r/BackYardChickens/comments/16sqnrm/cant_decide_on_coop_plans_we_want_to_build_a_coop/))
+Here's a smart tip from the r/BackYardChickens community: build in 8-foot increments, because that's the standard length lumber comes in. You'll waste less wood and spend less money. ([Source](https://www.reddit.com/r/BackYardChickens/comments/16sqnrm/cant_decide_on_coop_plans_we_want_to_build_a_coop/))
 
 ## Choosing a Location
 
@@ -46,14 +46,14 @@ Where you put your coop matters just as much as how you build it.
 **Pick a spot that has:**
 - **Partial shade.** Full sun all day turns the coop into an oven in summer. A spot under a tree or near a building that gets morning sun and afternoon shade is ideal.
 - **Good drainage.** Low spots collect water and create muddy, smelly messes. Slightly elevated ground or a spot with a gentle slope works best.
-- **Easy access from your house.** You will visit the coop at least twice a day. Put it somewhere convenient, not in the far back corner of your yard.
-- **Distance from neighbors.** Check your local setback requirements. Even if there is no legal minimum, keeping the coop away from property lines reduces complaints.
+- **Easy access from your house.** You'll visit the coop at least twice a day. Put it somewhere convenient, not in the far back corner of your yard.
+- **Distance from neighbors.** Check your local setback requirements. Even if there's no legal minimum, keeping the coop away from property lines reduces complaints.
 
 Oregon State University Extension also recommends building the coop close to your house or areas where people frequently go. Human activity naturally discourages predators like foxes and coyotes from hanging around ([Source](https://extension.oregonstate.edu/catalog/ec-1644-living-land-backyard-chicken-coop-design)).
 
 ## Materials You Will Need
 
-You do not need anything exotic. A basic coop uses standard lumber, hardware cloth, and some roofing material. Here is a breakdown for a simple 4x8 foot coop (good for 6 to 8 chickens):
+You don't need anything exotic. A basic coop uses standard lumber, hardware cloth, and some roofing material. Here's a breakdown for a simple 4x8 foot coop (good for 6 to 8 chickens):
 
 ### Lumber
 
@@ -62,17 +62,17 @@ You do not need anything exotic. A basic coop uses standard lumber, hardware clo
 - **Plywood (1/2" or 3/4")** for walls, floor, and nesting boxes
 - **1x6 or 1x8 boards** for trim and nesting box fronts
 
-Buy pressure-treated lumber for anything touching the ground (floor joists, base frame). Use untreated lumber for everything else inside the coop, since chickens peck at things and you do not want them ingesting treated wood chemicals.
+Buy pressure-treated lumber for anything touching the ground (floor joists, base frame). Use untreated lumber for everything else inside the coop, since chickens peck at things and you don't want them ingesting treated wood chemicals.
 
 **Pro tip:** Buy in 8-foot lengths and plan your cuts around that. A 4x8 coop uses lumber efficiently with minimal waste.
 
 ### Hardware Cloth (Not Chicken Wire)
 
-This is the single most important material decision you will make. **Do not use chicken wire for predator protection.** Chicken wire keeps chickens in, but raccoons, foxes, and even rats can tear through it or reach through the openings.
+This is the single most important material decision you'll make. **Don't use chicken wire for predator protection.** Chicken wire keeps chickens in, but raccoons, foxes, and even rats can tear through it or reach through the openings.
 
 Use **1/2-inch galvanized hardware cloth** for all windows, vents, and the run. The 1/2-inch mesh is small enough to keep out rats and snakes while being strong enough to stop raccoons.
 
-For a basic coop and run, you will need roughly 50 to 100 square feet of hardware cloth, depending on your design. A 36" x 100' roll gives you plenty for most builds.
+For a basic coop and run, you'll need roughly 50 to 100 square feet of hardware cloth, depending on your design. A 36" x 100' roll gives you plenty for most builds.
 
 **Recommended:** [Thinkahead 1/2" Hardware Cloth, 19 Gauge, Hot-Dipped Galvanized](https://www.amazon.com/dp/B0BM45GHZV?tag=backyardchx-20) - This galvanized mesh resists rust and holds up well against predators. The 19-gauge wire is sturdy without being impossible to cut with regular tin snips.
 
@@ -93,7 +93,7 @@ Slope the roof away from the front of the coop and away from nesting boxes. If y
 
 ## Essential Coop Features
 
-A chicken coop does not need to be fancy. As one Redditor bluntly put it: "Chickens don't care. It just needs to be a big box with a couple nesting boxes, a roost, and a door." ([Source](https://www.reddit.com/r/BackYardChickens/comments/16sqnrm/cant_decide_on_coop_plans_we_want_to_build_a_coop/))
+A chicken coop doesn't need to be fancy. As one Redditor bluntly put it: "Chickens don't care. It just needs to be a big box with a couple nesting boxes, a roost, and a door." ([Source](https://www.reddit.com/r/BackYardChickens/comments/16sqnrm/cant_decide_on_coop_plans_we_want_to_build_a_coop/))
 
 That said, there are features that make a real difference for both the birds and for you:
 
@@ -113,7 +113,7 @@ Chickens sleep on roosts, not on the floor. Each bird needs about **8 to 10 inch
 
 - Use **2x4 lumber laid flat** (with the 4-inch side up). The wide, flat surface lets birds cover their toes with their body in cold weather, which prevents frostbite.
 - Place roosts **higher than nesting boxes** but not so high that heavy breeds have trouble getting up. Two to three feet off the ground works for most flocks.
-- If you have multiple roost bars, stagger them at slightly different heights and space them 12 to 18 inches apart so birds are not directly above each other.
+- If you have multiple roost bars, stagger them at slightly different heights and space them 12 to 18 inches apart so birds aren't directly above each other.
 
 ### Ventilation
 
@@ -147,7 +147,7 @@ If your coop is a walk-in design (highly recommended for 6+ birds), a standard-w
 
 Predators are the number one cause of chicken loss for backyard flocks. Raccoons, foxes, hawks, snakes, rats, opossums, neighborhood dogs, and even weasels all want a piece of your flock.
 
-Here is how to lock them out:
+Here's how to lock them out:
 
 ### The Walls and Windows
 - Use **1/2-inch hardware cloth** on all openings. No exceptions.
@@ -171,7 +171,7 @@ Raccoons have dexterous paws and can open simple hook-and-eye latches. Use **two
 
 ## Step-by-Step Build Overview
 
-Here is a simplified build sequence for a basic 4x8 foot elevated coop with an attached run:
+Here's a simplified build sequence for a basic 4x8 foot elevated coop with an attached run:
 
 ### 1. Build the Floor Frame
 - Cut four 2x4s for the base rectangle (two 8-foot pieces and two 4-foot pieces)
@@ -208,7 +208,7 @@ Here is a simplified build sequence for a basic 4x8 foot elevated coop with an a
 
 ### 7. Finishing Touches
 - Paint or stain the exterior (use exterior-grade, non-toxic paint)
-- Add bedding (pine shavings work great, see our guide on [chicken coop bedding choices](/articles/chicken-coop-bedding-pine-shavings-vs-straw-vs-sand) when it is published)
+- Add bedding (pine shavings work great, see our guide on [chicken coop bedding choices](/articles/chicken-coop-bedding-pine-shavings-vs-straw-vs-sand) when it's published)
 - Install latches on all doors
 - Give everything a good shake and pull to test for weak spots
 
@@ -234,21 +234,21 @@ If you go with a solid floor, elevate the coop at least 18 to 24 inches off the 
 
 After reading through hundreds of Reddit posts and talking to experienced chicken keepers, these are the mistakes that come up again and again:
 
-**Building too small.** Plan for more chickens than you think you will have. Seriously.
+**Building too small.** Plan for more chickens than you think you'll have. Seriously.
 
-**Using chicken wire for predator protection.** It does not work. Use hardware cloth. Every experienced chicken keeper will tell you the same thing.
+**Using chicken wire for predator protection.** It doesn't work. Use hardware cloth. Every experienced chicken keeper will tell you the same thing.
 
 **Not enough ventilation.** This is the most underrated mistake. A tight, sealed coop feels "safe" but actually makes your chickens sick. Moisture and ammonia need somewhere to go.
 
 **Putting food and water inside the coop.** Several experienced keepers on Reddit specifically advise against this. Food inside the coop attracts rodents. Water inside creates moisture problems. Keep both in the run instead.
 
-**Forgetting about cleaning access.** If you cannot easily get inside to scrape out old bedding and droppings, you will put off cleaning. And a dirty coop leads to mites, ammonia buildup, and sick birds. Make the human door big and the floor easy to access.
+**Forgetting about cleaning access.** If you can't easily get inside to scrape out old bedding and droppings, you'll put off cleaning. And a dirty coop leads to mites, ammonia buildup, and sick birds. Make the human door big and the floor easy to access.
 
-**Skipping the predator apron.** Burying hardware cloth or laying an apron is tedious work. But it is the difference between waking up to happy chickens or finding a disaster. Do it right the first time.
+**Skipping the predator apron.** Burying hardware cloth or laying an apron is tedious work. But it's the difference between waking up to happy chickens or finding a disaster. Do it right the first time.
 
 ## Cost Breakdown
 
-Building your own coop is almost always cheaper than buying a quality pre-built one. Here is a rough budget for a 4x8 coop with an attached 8x12 run:
+Building your own coop is almost always cheaper than buying a quality pre-built one. Here's a rough budget for a 4x8 coop with an attached 8x12 run:
 
 | Item | Estimated Cost |
 |------|---------------|
@@ -265,7 +265,7 @@ If budget is tight, watch for free or cheap lumber on Facebook Marketplace and C
 
 ## Tools You Will Need
 
-You do not need a workshop full of power tools. Here is the minimum:
+You don't need a workshop full of power tools. Here's the minimum:
 
 - **Circular saw** (or a hand saw, just slower)
 - **Drill/driver** with bits for screws
@@ -276,29 +276,29 @@ You do not need a workshop full of power tools. Here is the minimum:
 - **Staple gun** (heavy duty)
 - **Safety glasses and gloves** (hardware cloth edges are sharp)
 
-If you do not own these, see if your local hardware store has a tool rental program. Many Home Depot and Lowe's locations rent saws and drills for reasonable daily rates.
+If you don't own these, see if your local hardware store has a tool rental program. Many Home Depot and Lowe's locations rent saws and drills for reasonable daily rates.
 
 ## Making It Easy to Maintain
 
-A coop that is easy to clean is a coop you will actually keep clean. Design with maintenance in mind:
+A coop that's easy to clean is a coop you'll actually keep clean. Design with maintenance in mind:
 
 - **Poop boards under roosts:** A flat board or old baking sheet under your roosting bars catches most of the droppings. Scrape it off every morning. Takes 30 seconds and keeps the bedding cleaner much longer.
 - **Removable or hinged roost bars:** Makes deep cleaning easier.
-- **Smooth interior surfaces:** Sand or seal plywood surfaces so droppings do not stick and mites have fewer places to hide.
+- **Smooth interior surfaces:** Sand or seal plywood surfaces so droppings don't stick and mites have fewer places to hide.
 - **Grade the ground around the coop.** Make sure water drains away from the coop, not toward it. As one Reddit builder advised: "If the chicken poo stays wet, it will become anaerobic and stink. Grade everything and add a gravel/sand base." ([Source](https://www.reddit.com/r/BackYardChickens/comments/w8l1sg/chicken_coop_build/))
 
 ## Should You Use Free Plans or Design Your Own?
 
 Both work. Free coop plans are all over the internet, and they give you a starting point, especially if you have never built anything before. Look for plans from university extension services, which tend to be practical and well-tested.
 
-But honestly, a chicken coop is just a box with some features inside. Once you know the space requirements and essential features (which you now do), you can sketch something on graph paper and start building. Many experienced builders on Reddit say the same thing: do not overthink it.
+But honestly, a chicken coop is just a box with some features inside. Once you know the space requirements and essential features (which you now do), you can sketch something on graph paper and start building. Many experienced builders on Reddit say the same thing: don't overthink it.
 
 If you want the simplest possible approach, think of it as building a small shed. Find a free shed plan in the size you need, then add nesting boxes, roosts, ventilation, and a pop door.
 
 ## Wrapping Up
 
-Building a chicken coop is a weekend project that pays off for years. Your chickens do not need anything fancy. They need enough space, protection from predators, good ventilation, a place to roost, and a place to lay eggs. Everything else is bonus.
+Building a chicken coop is a weekend project that pays off for years. Your chickens don't need anything fancy. They need enough space, protection from predators, good ventilation, a place to roost, and a place to lay eggs. Everything else is bonus.
 
-Start bigger than you think you need (chicken math is coming for you), use hardware cloth instead of chicken wire, and design for easy cleaning. Follow those three rules and you will be in great shape.
+Start bigger than you think you need (chicken math is coming for you), use hardware cloth instead of chicken wire, and design for easy cleaning. Follow those three rules and you'll be in great shape.
 
-Ready to stock your coop? Check out our guide to the [best chicken breeds for beginners](/articles/best-chicken-breeds-for-beginners) or our [complete beginner's guide to raising backyard chickens](/articles/beginners-guide-raising-backyard-chickens) if you are still in the planning stage.
+Ready to stock your coop? Check out our guide to the [best chicken breeds for beginners](/articles/best-chicken-breeds-for-beginners) or our [complete beginner's guide to raising backyard chickens](/articles/beginners-guide-raising-backyard-chickens) if you're still in the planning stage.

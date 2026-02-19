@@ -8,9 +8,9 @@ image: "/images/articles/backyard-chickens-beginners-guide.jpg"
 
 # Complete Beginner's Guide to Raising Backyard Chickens
 
-So you want to raise chickens. Maybe you are tired of paying $7 for a dozen eggs. Maybe your kids have been begging for them. Maybe you just saw your neighbor's flock wandering around and thought, "that looks pretty nice." Whatever your reason, you are in the right place.
+So you want to raise chickens. Maybe you're tired of paying $7 for a dozen eggs. Maybe your kids have been begging for them. Maybe you just saw your neighbor's flock wandering around and thought, "that looks pretty nice." Whatever your reason, you're in the right place.
 
-Raising backyard chickens is one of those things that sounds way more complicated than it actually is. Yes, there is a learning curve. But if you can keep a dog alive, you can keep chickens alive. They are honestly less work than most pets.
+Raising backyard chickens is one of those things that sounds way more complicated than it actually is. Yes, there's a learning curve. But if you can keep a dog alive, you can keep chickens alive. They're honestly less work than most pets.
 
 This guide covers everything you need to get started, from checking your local laws to collecting your first egg. No prior experience needed.
 
@@ -18,27 +18,27 @@ This guide covers everything you need to get started, from checking your local l
 
 Before you do anything else, look up your city or county ordinances around keeping poultry. This is the step most people skip, and it can cause real problems later.
 
-Here is what to look for:
+Here's what to look for:
 
 - **Are hens allowed?** Most suburban and urban areas allow hens. Some do not. Check before you fall in love with the idea.
 - **How many?** Many cities cap it at 4 to 6 hens. Some allow more. Rural areas often have no limit.
-- **Are roosters allowed?** Usually no, at least in town. Roosters crow. A lot. Your neighbors will not appreciate it.
+- **Are roosters allowed?** Usually no, at least in town. Roosters crow. A lot. Your neighbors won't appreciate it.
 - **Setback requirements.** Some places say your coop must be a certain distance from the property line or your neighbor's house. Common setbacks are 10 to 25 feet.
-- **Permits.** A few cities require you to get a permit or register your flock. It is usually cheap and quick.
+- **Permits.** A few cities require you to get a permit or register your flock. It's usually cheap and quick.
 
-Your city's website is the best place to start. Search for "poultry ordinance" or "backyard chickens" plus your city name. If you cannot find it online, call your local zoning office. They deal with these questions all the time.
+Your city's website is the best place to start. Search for "poultry ordinance" or "backyard chickens" plus your city name. If you can't find it online, call your local zoning office. They deal with these questions all the time.
 
-If chickens are not allowed in your area, do not give up just yet. Many cities have updated their ordinances in recent years to allow small flocks. You might be able to petition for a change or request a variance.
+If chickens aren't allowed in your area, don't give up just yet. Many cities have updated their ordinances in recent years to allow small flocks. You might be able to petition for a change or request a variance.
 
 ## How Much Space Do Chickens Need?
 
-Chickens need more space than most beginners think, but less than you might fear. Here is the general rule of thumb, based on recommendations from the University of Kentucky Cooperative Extension Service:
+Chickens need more space than most beginners think, but less than you might fear. Here's the general rule of thumb, based on recommendations from the University of Kentucky Cooperative Extension Service:
 
 - **Inside the coop:** 4 square feet per bird (minimum)
 - **In the run (outdoor area):** 10 square feet per bird (minimum)
 - **Free range:** As much as you can give them
 
-So if you want 4 chickens, plan for a coop that is at least 16 square feet inside (a 4x4 foot coop works) with a run that is at least 40 square feet.
+So if you want 4 chickens, plan for a coop that's at least 16 square feet inside (a 4x4 foot coop works) with a run that's at least 40 square feet.
 
 More space is always better. Crowded chickens get stressed, pick at each other, and are more likely to get sick. If you can give them extra room, do it.
 
@@ -61,7 +61,7 @@ For your first flock, stick with breeds that are:
 
 Here are five great starter breeds:
 
-**Rhode Island Red.** The workhorse of backyard flocks. Lays 250 to 300 brown eggs per year. Hardy in all climates. Friendly but independent. You will find these at just about any feed store.
+**Rhode Island Red.** The workhorse of backyard flocks. Lays 250 to 300 brown eggs per year. Hardy in all climates. Friendly but independent. You'll find these at just about any feed store.
 
 **Buff Orpington.** Big, fluffy, and gentle. Often called the "golden retriever" of chickens. Lays about 200 to 280 light brown eggs per year. Great with kids. They do go broody sometimes (meaning they want to sit on eggs and hatch them), which can pause egg production.
 
@@ -77,7 +77,7 @@ You can read our full breakdown in [10 Best Chicken Breeds for Beginners](/artic
 
 ## Setting Up Your Coop
 
-Your coop is the most important purchase (or build) you will make. It needs to keep your birds safe from predators, dry in rain, cool in summer, and warm enough in winter.
+Your coop is the most important purchase (or build) you'll make. It needs to keep your birds safe from predators, dry in rain, cool in summer, and warm enough in winter.
 
 ### Buying vs. Building
 
@@ -92,16 +92,16 @@ See our [Best Chicken Coops on Amazon](/articles/best-chicken-coops-amazon-2026)
 No matter what coop you choose, make sure it has:
 
 1. **A solid floor or predator-proof base.** Raccoons, foxes, and rats will try to dig in. A wooden floor raised off the ground, or hardware cloth buried 12 inches around the perimeter, keeps them out.
-2. **Hardware cloth (not chicken wire) on all openings.** Chicken wire keeps chickens in, but it does not keep predators out. A raccoon can reach right through it. Use 1/2-inch hardware cloth instead.
+2. **Hardware cloth (not chicken wire) on all openings.** Chicken wire keeps chickens in, but it doesn't keep predators out. A raccoon can reach right through it. Use 1/2-inch hardware cloth instead.
 3. **A door you can lock at night.** Raccoons can open simple latches. Use a carabiner or two-step latch.
 4. **Nesting boxes.** One box per 3 to 4 hens, with a lip on the front to hold in bedding.
 5. **Roosting bars.** 2x4 lumber with the wide side up works great. Place them higher than the nesting boxes.
 6. **Ventilation openings near the roofline.** Covered with hardware cloth. You want air moving through the coop without drafts hitting the birds directly.
-7. **Easy access for cleaning.** A big door or removable wall panel makes cleaning much easier. You will thank yourself later.
+7. **Easy access for cleaning.** A big door or removable wall panel makes cleaning much easier. You'll thank yourself later.
 
 ## What Do Chickens Eat?
 
-Feeding chickens is simpler than feeding a dog. Here is the basic breakdown:
+Feeding chickens is simpler than feeding a dog. Here's the basic breakdown:
 
 ### Chicks (0 to 8 weeks)
 Feed them **chick starter** (also called starter feed). It has about 20% protein, which growing chicks need. Keep it available at all times in a chick feeder. They also need clean water, always.
@@ -123,9 +123,9 @@ Chickens love treats, but keep them to 10% or less of total diet. Good treats in
 
 **Things chickens should NOT eat:** avocado (toxic), raw potatoes (toxic), chocolate, caffeine, dried beans (raw), very salty or sugary foods.
 
-**Grit:** Chickens do not have teeth. They swallow small rocks and store them in their gizzard to grind up food. If your birds free-range, they find grit naturally. If they are in a run, provide a dish of poultry grit.
+**Grit:** Chickens don't have teeth. They swallow small rocks and store them in their gizzard to grind up food. If your birds free-range, they find grit naturally. If they're in a run, provide a dish of poultry grit.
 
-**Oyster shell:** Keep a dish of crushed oyster shell available for laying hens. They will eat it when they need extra calcium. Do not mix it into the feed because not all birds need the same amount.
+**Oyster shell:** Keep a dish of crushed oyster shell available for laying hens. They will eat it when they need extra calcium. Don't mix it into the feed because not all birds need the same amount.
 
 ## Water: More Important Than Food
 
@@ -133,11 +133,11 @@ Chickens drink a surprising amount of water. A laying hen drinks about a pint of
 
 Keep water clean and available at all times. Dirty water leads to disease. Change it at least once a day, more often in summer.
 
-In winter, you will need a way to keep water from freezing. A heated waterer base or a heated dog bowl works well. Check it every morning either way.
+In winter, you'll need a way to keep water from freezing. A heated waterer base or a heated dog bowl works well. Check it every morning either way.
 
 ## Daily, Weekly, and Monthly Chores
 
-Here is what actually takes up your time:
+Here's what actually takes up your time:
 
 ### Daily (5 to 10 minutes)
 - Collect eggs (once or twice a day)
@@ -187,27 +187,27 @@ Healthy chickens are active, bright-eyed, and eating well. Watch for these warni
 
 Keep a small first aid kit on hand: Vetericyn spray for wounds, poultry electrolytes for heat stress, and a pet carrier for isolating sick birds. The Merck Veterinary Manual (available free online) is a solid reference for poultry health.
 
-Find an avian vet in your area before you need one. Not all vets treat chickens, and you do not want to be searching for one in an emergency.
+Find an avian vet in your area before you need one. Not all vets treat chickens, and you don't want to be searching for one in an emergency.
 
 ## What to Expect in Your First Year
 
-Here is a rough timeline of what your first year looks like:
+Here's a rough timeline of what your first year looks like:
 
 **Weeks 1 to 6 (if starting with chicks):** Keep them in a brooder indoors with a heat lamp. Temperature starts at 95°F and drops 5 degrees per week. This is the messiest phase. They grow fast.
 
-**Weeks 6 to 8:** Move them to the coop (if nighttime temps are above 50°F and they are fully feathered). They will be awkward teenagers at this point.
+**Weeks 6 to 8:** Move them to the coop (if nighttime temps are above 50°F and they're fully feathered). They will be awkward teenagers at this point.
 
 **Weeks 8 to 18:** They grow into full-size birds. No eggs yet. This is the "eating your feed and giving nothing back" phase. Be patient.
 
 **Weeks 18 to 24:** First eggs! They start small (called pullet eggs) and get bigger over the next few weeks. Not every hen starts at the same time.
 
-**Months 6 to 12:** Full production. Most breeds lay 4 to 6 eggs per week at peak. You will have more eggs than you know what to do with. Start giving them to neighbors.
+**Months 6 to 12:** Full production. Most breeds lay 4 to 6 eggs per week at peak. You'll have more eggs than you know what to do with. Start giving them to neighbors.
 
 **First fall/winter:** Egg production drops when daylight hours decrease. This is normal. Some people add a light to the coop to maintain production, but letting them rest naturally is fine too. Your birds will go through their first molt (lose and regrow feathers), which looks alarming but is totally normal.
 
 ## How Much Does It All Cost?
 
-Here is a ballpark for a small flock of 4 hens:
+Here's a ballpark for a small flock of 4 hens:
 
 | Item | Cost Range |
 |------|-----------|
@@ -225,7 +225,7 @@ Will you save money on eggs? Honestly, probably not, at least not in the first y
 
 ## Quick Start Checklist
 
-Here is your action list:
+Here's your action list:
 
 1. Check local laws and ordinances
 2. Choose your coop location (level ground, some shade, good drainage)
@@ -236,6 +236,6 @@ Here is your action list:
 7. Set up a brooder if starting with chicks
 8. Let them settle in and enjoy the show
 
-You are going to love it. Chickens are funny, relaxing to watch, and incredibly satisfying to care for. And once you crack that first fresh egg into a pan, you will wonder why you did not start sooner.
+You're going to love it. Chickens are funny, relaxing to watch, and incredibly satisfying to care for. And once you crack that first fresh egg into a pan, you'll wonder why you didn't start sooner.
 
 Got questions? Check out our [breed guide](/articles/best-chicken-breeds-for-beginners) to pick the right birds, or browse our [gear reviews](/categories/gear-reviews) to find the best coops, feeders, and supplies.

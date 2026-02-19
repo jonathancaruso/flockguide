@@ -8,19 +8,19 @@ image: "/images/articles/chickens-feeding.jpg"
 
 # What Do Chickens Eat? A Complete Feeding Guide
 
-If you are new to keeping chickens, feeding them might seem confusing at first. Walk into a farm store and you will see a wall of different feeds: starter, grower, layer, crumble, pellet, medicated, organic. Then someone on Reddit tells you they just throw their chickens table scraps and call it a day.
+If you're new to keeping chickens, feeding them might seem confusing at first. Walk into a farm store and you'll see a wall of different feeds: starter, grower, layer, crumble, pellet, medicated, organic. Then someone on Reddit tells you they just throw their chickens table scraps and call it a day.
 
-So what is the right answer? It depends on the age of your birds, what you are trying to accomplish, and how much effort you want to put in. But the basics are simpler than you might think.
+So what is the right answer? It depends on the age of your birds, what you're trying to accomplish, and how much effort you want to put in. But the basics are simpler than you might think.
 
 This guide breaks it all down: what to feed at every stage, how much they need, what treats are safe, what supplements matter, and what foods can actually hurt your flock.
 
 ## The Golden Rule: Commercial Feed is Your Foundation
 
-Here is the thing most experienced chicken keepers agree on: a quality commercial feed should make up 90% of your flock's diet. These feeds are formulated by poultry nutritionists to provide the exact balance of protein, carbohydrates, fats, vitamins, and minerals your birds need.
+Here's the thing most experienced chicken keepers agree on: a quality commercial feed should make up 90% of your flock's diet. These feeds are formulated by poultry nutritionists to provide the exact balance of protein, carbohydrates, fats, vitamins, and minerals your birds need.
 
-According to [Oregon State University Extension](https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens), manufactured feeds are "considered a complete diet, providing all of the nutrients required by chickens." In most cases, you will not need to add supplemental nutrients if you are using a quality commercial feed as your base.
+According to [Oregon State University Extension](https://extension.oregonstate.edu/catalog/pnw-477-how-feed-your-laying-hens), manufactured feeds are "considered a complete diet, providing all of the nutrients required by chickens." In most cases, you'll not need to add supplemental nutrients if you're using a quality commercial feed as your base.
 
-That does not mean treats and scraps are off limits. It just means they are extras, not the main course.
+That doesn't mean treats and scraps are off limits. It just means they're extras, not the main course.
 
 ## Feeding by Age: What to Use When
 
@@ -34,9 +34,9 @@ Baby chicks need a high-protein starter feed to support their rapid growth. Star
 - Use chick starter crumble (not pellets, which are too big for tiny beaks)
 - Medicated starter contains amprolium, which helps prevent coccidiosis. If your chicks were vaccinated for coccidiosis at the hatchery, use unmedicated starter instead, since amprolium can interfere with the vaccine
 - Keep feed available at all times. Chicks eat small amounts frequently throughout the day
-- Do not use meat-bird (broiler) starter for layer chicks. Broiler starter has higher protein (22%+) designed for fast weight gain, which is not what you want for future egg layers
+- Don't use meat-bird (broiler) starter for layer chicks. Broiler starter has higher protein (22%+) designed for fast weight gain, which isn't what you want for future egg layers
 
-**Pro tip:** Chicks need grit if they are eating anything besides their crumble. Sprinkle a little chick-sized grit in their brooder once a week.
+**Pro tip:** Chicks need grit if they're eating anything besides their crumble. Sprinkle a little chick-sized grit in their brooder once a week.
 
 ### Grower Feed (6 to 18 Weeks)
 
@@ -56,13 +56,13 @@ When your pullets start laying (usually around 18 to 20 weeks), switch to a laye
 Layer feeds contain about 16 to 18% crude protein and, critically, extra calcium (3 to 4%) for strong eggshells. The [Alabama Cooperative Extension System](https://www.aces.edu/blog/topics/farming/backyard-small-poultry-flock-management-series-feeding-the-laying-hen/) recommends around 18% crude protein for laying hens to maintain good egg production.
 
 **Key points:**
-- Available in pellet or crumble form. Pellets tend to waste less food since birds cannot pick through them as easily
+- Available in pellet or crumble form. Pellets tend to waste less food since birds can't pick through them as easily
 - Switch to layer feed when you see the first egg, or at 18 weeks, whichever comes first
 - Never feed layer feed to chicks or growing pullets. The high calcium content can cause kidney damage in young birds
 
 ### What About Mixed-Age Flocks?
 
-If you keep birds of different ages together, feeding gets a little tricky. You cannot give layer feed to young birds, but your layers need that extra calcium.
+If you keep birds of different ages together, feeding gets a little tricky. You can't give layer feed to young birds, but your layers need that extra calcium.
 
 The simplest solution: feed everyone an all-flock or grower feed (16% protein, low calcium), and provide oyster shell in a separate dish. Laying hens will eat the oyster shell when they need it. The younger birds will mostly ignore it.
 
@@ -85,11 +85,11 @@ A flock of 6 hens will go through a 50-pound bag of feed roughly every 5 to 6 we
 
 Commercial feed comes in three textures:
 
-**Pellets** are compressed cylinders, about the size of a pencil eraser. They are the most popular choice because birds cannot sort through them to pick out favorite bits, which means less waste. Pellets also stay cleaner in the feeder.
+**Pellets** are compressed cylinders, about the size of a pencil eraser. They're the most popular choice because birds can't sort through them to pick out favorite bits, which means less waste. Pellets also stay cleaner in the feeder.
 
 **Crumble** is basically pellets that have been broken into smaller pieces. Great for chicks and younger birds. Some adult hens prefer crumble over pellets, though it does tend to create more dust and waste.
 
-**Mash** is the loose, unprocessed form. It is cheaper but creates the most waste since chickens will scratch through it and scatter it everywhere. Mash works better when mixed with water to make a wet feed.
+**Mash** is the loose, unprocessed form. It's cheaper but creates the most waste since chickens will scratch through it and scatter it everywhere. Mash works better when mixed with water to make a wet feed.
 
 For most backyard flocks, pellets are the way to go.
 
@@ -99,7 +99,7 @@ Here are some solid options that backyard chicken keepers trust:
 
 ### Manna Pro Organic Layer Pellets
 
-Manna Pro's organic layer pellets are USDA Certified Organic, non-GMO, and work for mixed flocks (chickens, ducks, turkeys). At 16% protein with added calcium, they cover the basics well. Available in 10-pound bags, which is perfect if you have a small flock and do not want to store a 50-pound bag.
+Manna Pro's organic layer pellets are USDA Certified Organic, non-GMO, and work for mixed flocks (chickens, ducks, turkeys). At 16% protein with added calcium, they cover the basics well. Available in 10-pound bags, which is perfect if you have a small flock and don't want to store a 50-pound bag.
 
 [Check Price on Amazon](https://www.amazon.com/s?k=Manna+Pro+Organic+Layer+Pellets&tag=backyardchx-20)
 
@@ -125,13 +125,13 @@ Signs of calcium deficiency: thin or soft eggshells, shell-less eggs, or a drop 
 
 ### Grit
 
-Chickens do not have teeth. They swallow small rocks and store them in their gizzard, which grinds up food. If your birds free range, they probably pick up enough grit on their own. But if they are mostly in a coop and run, offer a dish of poultry grit.
+Chickens don't have teeth. They swallow small rocks and store them in their gizzard, which grinds up food. If your birds free range, they probably pick up enough grit on their own. But if they're mostly in a coop and run, offer a dish of poultry grit.
 
 There are two types:
 - **Insoluble grit** (crushed granite): stays in the gizzard and grinds food
 - **Soluble grit** (oyster shell): dissolves and provides calcium
 
-You want both available if your birds do not free range.
+You want both available if your birds don't free range.
 
 [Manna Pro Chicken Grit on Amazon](https://www.amazon.com/s?k=Manna+Pro+chicken+grit+probiotics&tag=backyardchx-20)
 
@@ -139,7 +139,7 @@ You want both available if your birds do not free range.
 
 Some keepers add a splash of raw, unfiltered apple cider vinegar (with the "mother") to their flock's water. The idea is that it supports gut health and discourages harmful bacteria. This one is more of a folk remedy than hard science, but many experienced keepers swear by it.
 
-If you try it, use about 1 tablespoon per gallon of water. Do not use it in metal waterers since the acid will corrode them.
+If you try it, use about 1 tablespoon per gallon of water. Don't use it in metal waterers since the acid will corrode them.
 
 ## Treats and Kitchen Scraps: The Fun Stuff
 
@@ -161,7 +161,7 @@ Treats should make up no more than 10% of your flock's diet. Think of them like 
 
 If you want to make your chickens love you, get a bag of dried mealworms. They will come running from across the yard when they hear that bag crinkle. Mealworms are high in protein (about 50%) and make a great treat, especially during molt when birds need extra protein to regrow feathers.
 
-Just do not overdo it. A small handful per bird a few times a week is plenty.
+Just don't overdo it. A small handful per bird a few times a week is plenty.
 
 [Dried Mealworms for Chickens on Amazon](https://www.amazon.com/s?k=dried+mealworms+chickens+5+lb&tag=backyardchx-20)
 
@@ -169,25 +169,25 @@ Just do not overdo it. A small handful per bird a few times a week is plenty.
 
 This is important. Some common foods are genuinely toxic to chickens.
 
-**Avocado (skin and pit).** Contains persin, a toxin that can cause heart failure, breathing difficulty, and death in chickens. The flesh is less toxic, but it is safest to just avoid avocado entirely.
+**Avocado (skin and pit).** Contains persin, a toxin that can cause heart failure, breathing difficulty, and death in chickens. The flesh is less toxic, but it's safest to just avoid avocado entirely.
 
-**Chocolate.** Contains theobromine, which is toxic to chickens just like it is to dogs. Dark chocolate is worse than milk chocolate, but keep all chocolate away from your flock.
+**Chocolate.** Contains theobromine, which is toxic to chickens just like it's to dogs. Dark chocolate is worse than milk chocolate, but keep all chocolate away from your flock.
 
-**Dried or raw beans.** Raw kidney beans and other dried beans contain phytohaemagglutinin, a lectin that is toxic to chickens (and humans, for that matter). Fully cooked beans are fine.
+**Dried or raw beans.** Raw kidney beans and other dried beans contain phytohaemagglutinin, a lectin that's toxic to chickens (and humans, for that matter). Fully cooked beans are fine.
 
 **Green potatoes and tomato leaves.** These contain solanine, a toxin found in nightshade plants. Ripe tomatoes are fine. Regular cooked potatoes are fine. But green potatoes, potato sprouts, and tomato plant leaves should stay out of the coop.
 
-**Onions in large quantities.** Small amounts probably will not cause problems, but large amounts can damage red blood cells and cause anemia. Garlic is generally considered safe in small quantities and some keepers use it as a natural health booster.
+**Onions in large quantities.** Small amounts probably won't cause problems, but large amounts can damage red blood cells and cause anemia. Garlic is generally considered safe in small quantities and some keepers use it as a natural health booster.
 
-**Moldy or rotten food.** Some molds produce mycotoxins that can make chickens very sick. If you would not eat it yourself, do not give it to your chickens.
+**Moldy or rotten food.** Some molds produce mycotoxins that can make chickens very sick. If you wouldn't eat it yourself, don't give it to your chickens.
 
-**Processed junk food.** Chips, candy, heavily salted or sugared foods. Your chickens do not need a snack aisle.
+**Processed junk food.** Chips, candy, heavily salted or sugared foods. Your chickens don't need a snack aisle.
 
 ## The Kitchen Scrap Debate
 
-You will hear two camps on this topic. One group tosses all their kitchen scraps to the chickens and says they have done it for decades with no problems. The other group says scraps are the enemy of balanced nutrition.
+You'll hear two camps on this topic. One group tosses all their kitchen scraps to the chickens and says they have done it for decades with no problems. The other group says scraps are the enemy of balanced nutrition.
 
-The truth is somewhere in the middle. Kitchen scraps can be a great supplement, but they should not replace commercial feed. If your hens are filling up on bread and pasta, they are not eating their layer feed, which means they are missing out on balanced nutrition.
+The truth is somewhere in the middle. Kitchen scraps can be a great supplement, but they shouldn't replace commercial feed. If your hens are filling up on bread and pasta, they're not eating their layer feed, which means they're missing out on balanced nutrition.
 
 A good rule: scraps should be no more than a treat, not a meal replacement. And stick to the safe foods listed above.
 
@@ -199,7 +199,7 @@ This one is easy to overlook, but water is the single most important thing you p
 - Change water daily, especially in summer when algae grows fast
 - Keep waterers in shade when possible
 - In winter, use a heated waterer or water heater base to prevent freezing
-- Nipple waterers stay cleaner than open troughs since chickens cannot scratch bedding into them
+- Nipple waterers stay cleaner than open troughs since chickens can't scratch bedding into them
 
 Dehydration will tank egg production faster than almost anything else. If your hens suddenly stop laying, check their water supply first.
 
@@ -207,9 +207,9 @@ Dehydration will tank egg production faster than almost anything else. If your h
 
 If your chickens have access to a yard, pasture, or garden area, they will supplement their own diet with bugs, worms, grass, seeds, and whatever else they can find. Free-range birds tend to produce eggs with darker, richer yolks because of the variety in their diet.
 
-Free ranging does not eliminate the need for commercial feed. Think of it as a bonus on top of their regular diet. Most free-range flocks still eat about 80 to 90% of their normal feed amount.
+Free ranging doesn't eliminate the need for commercial feed. Think of it as a bonus on top of their regular diet. Most free-range flocks still eat about 80 to 90% of their normal feed amount.
 
-According to the [University of Maryland Extension](https://extension.umd.edu/resource/feeding-flock), "nutrition obtained from pasture depends on the forage quality of the pasture and chicken breed," so do not count on foraging alone to meet their nutritional needs.
+According to the [University of Maryland Extension](https://extension.umd.edu/resource/feeding-flock), "nutrition obtained from pasture depends on the forage quality of the pasture and chicken breed," so don't count on foraging alone to meet their nutritional needs.
 
 ## Seasonal Feeding Tips
 
@@ -226,7 +226,7 @@ When chickens molt (usually in fall), they drop and regrow feathers. Feathers ar
 
 **Overfeeding treats.** If your hens are getting fat or egg production drops, cut back on treats and scraps. Commercial feed first, treats second.
 
-**Using the wrong feed for the age group.** Layer feed for chicks can cause kidney damage. Starter feed for layers does not provide enough calcium. Match the feed to the life stage.
+**Using the wrong feed for the age group.** Layer feed for chicks can cause kidney damage. Starter feed for layers doesn't provide enough calcium. Match the feed to the life stage.
 
 **Not providing grit.** If your birds eat anything besides commercial feed (treats, scraps, foraged bugs), they need grit to digest it.
 
@@ -240,7 +240,7 @@ A 50-pound bag of standard layer feed costs roughly $15 to $25 at most farm stor
 
 For a flock of 6 hens eating about 1.5 pounds per day total, one 50-pound bag lasts about 5 weeks. That puts your monthly feed cost at roughly $15 to $35, depending on what you buy.
 
-Add in oyster shell ($8 to $12 for a 5-pound bag that lasts months), grit (similar price), and occasional treats, and you are looking at around $25 to $50 per month to feed a small flock.
+Add in oyster shell ($8 to $12 for a 5-pound bag that lasts months), grit (similar price), and occasional treats, and you're looking at around $25 to $50 per month to feed a small flock.
 
 Is it cheaper than buying eggs at the store? Probably not, at least for the first year when you factor in coop costs. But by year two, with feed as your only ongoing expense, the math starts working in your favor, especially at current egg prices.
 

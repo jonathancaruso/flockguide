@@ -24,9 +24,9 @@ export default function AboutPage() {
         <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">What We Believe</h2>
         <ul className="list-disc list-inside space-y-2">
           <li>Chickens are easier than most people think</li>
-          <li>You do not need a huge yard or a lot of money to start</li>
+          <li>You don't need a huge yard or a lot of money to start</li>
           <li>Good information should be free</li>
-          <li>When we recommend a product, it is because we actually think it is good (not because someone paid us to say so)</li>
+          <li>When we recommend a product, it's because we actually think it's good (not because someone paid us to say so)</li>
         </ul>
         <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">About Our Recommendations</h2>
         <p>
