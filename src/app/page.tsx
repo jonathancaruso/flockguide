@@ -47,7 +47,7 @@ export default function Home() {
               Raising Backyard Chickens Made Simple 🐔
             </h1>
             <p className="text-xl text-farm-100 mb-8">
-              No fluff, no filler. Just straight talk from people who actually raise chickens.
+              No fluff, no filler. Just practical advice for raising a healthy backyard flock.
               Breed guides, coop advice, and gear reviews to get you started right.
             </p>
             <div className="flex flex-wrap gap-4">
