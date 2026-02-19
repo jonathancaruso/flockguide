@@ -7,8 +7,9 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import type { Components } from 'react-markdown'
 import { getArticleBySlug, getAllSlugs } from '@/lib/articles'
-import TableOfContents, { extractH2s } from '@/components/TableOfContents'
-import FAQSchema, { extractFAQs } from '@/components/FAQSchema'
+import TableOfContents from '@/components/TableOfContents'
+import FAQSchema from '@/components/FAQSchema'
+import { extractH2s, extractFAQs } from '@/lib/markdown-utils'
 import type { Metadata } from 'next'
 
 // Markdown components styled for chicken site

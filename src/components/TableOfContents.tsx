@@ -1,29 +1,6 @@
 'use client'
 
-interface TOCItem {
-  id: string
-  text: string
-}
-
-function slugify(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '')
-}
-
-export function extractH2s(markdown: string): TOCItem[] {
-  const lines = markdown.split('\n')
-  const items: TOCItem[] = []
-  for (const line of lines) {
-    const match = line.match(/^## (.+)$/)
-    if (match) {
-      const text = match[1].trim()
-      items.push({ id: slugify(text), text })
-    }
-  }
-  return items
-}
+import type { TOCItem } from '@/lib/markdown-utils'
 
 export default function TableOfContents({ items }: { items: TOCItem[] }) {
   if (items.length < 3) return null

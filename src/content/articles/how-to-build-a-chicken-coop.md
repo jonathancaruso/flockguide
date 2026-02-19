@@ -307,4 +307,26 @@ Building a chicken coop is a weekend project that pays off for years. Your chick
 
 Start bigger than you think you need (chicken math is coming for you), use hardware cloth instead of chicken wire, and design for easy cleaning. Follow those three rules and you'll be in great shape.
 
+## Frequently Asked Questions
+
+### How much does it cost to build a chicken coop?
+
+A basic DIY coop for 4 to 6 chickens runs $200 to $500 in materials. Using reclaimed lumber, pallets, or a converted shed can cut that in half. Prefab coops cost $300 to $800 but save time. The biggest expense is usually hardware cloth and roofing materials.
+
+### How much space do chickens need in a coop?
+
+Plan for 4 square feet per chicken inside the coop and 8 to 10 square feet per bird in the outdoor run. Bantams can get by with less. Overcrowding causes stress, pecking, and health problems, so always err on the side of building bigger than you think you need.
+
+### Do chicken coops need insulation?
+
+In most climates, no. Chickens handle cold weather well as long as the coop is dry and draft-free with good ventilation. Insulation matters more in extreme northern climates where temps regularly drop below zero. Ventilation is actually more important than insulation for preventing frostbite.
+
+### What's the best flooring for a chicken coop?
+
+Plywood or OSB with a coat of paint or sealant works great. It's easy to clean and holds up well with deep litter. Some people use linoleum over plywood for even easier cleanup. Avoid bare dirt floors in the coop since they attract rats and make cleaning harder.
+
+### How high should roosting bars be?
+
+About 2 to 4 feet off the ground works for most breeds. Heavy breeds like Orpingtons do better with lower roosts since jumping down from high perches can hurt their legs. Space bars 12 to 18 inches apart and make them at least 8 inches per bird wide.
+
 Ready to stock your coop? Check out our guide to the [best chicken breeds for beginners](/articles/best-chicken-breeds-for-beginners) or our [complete beginner's guide to raising backyard chickens](/articles/beginners-guide-raising-backyard-chickens) if you're still in the planning stage.

@@ -177,6 +177,24 @@ If you're still on the fence about starting, our [Complete Beginner's Guide to R
 
 Just go in knowing what you'll spend, and you won't have any unpleasant surprises.
 
+## Frequently Asked Questions
+
+### Is it cheaper to raise chickens or buy eggs?
+
+For most people, buying store-brand eggs is cheaper. But if you compare to pasture-raised organic eggs at $7 to $9 a dozen, backyard eggs can break even or save money after the first year. The real value is in quality, freshness, and knowing exactly how your food was produced.
+
+### How much does chicken feed cost per month?
+
+A small flock of 4 to 6 hens goes through about one 50-pound bag of feed per month, which costs $15 to $25 depending on brand and type. Organic feed runs higher at $30 to $40 per bag. Supplementing with kitchen scraps and free-ranging can stretch your feed further.
+
+### What's the cheapest way to start raising chickens?
+
+Buy chicks instead of pullets, build a coop from recycled materials or a converted shed, and start with just 3 to 4 birds. You can get going for $200 to $300 if you're resourceful. The biggest savings come from DIY housing since prefab coops carry a hefty markup.
+
+### Are there hidden costs to raising chickens?
+
+Yes. Vet bills, predator-proofing upgrades, replacing equipment, and treating parasites add up. Bedding is an ongoing expense people forget about. Most experienced keepers say their actual costs end up 30 to 50 percent higher than what they originally budgeted for.
+
 ---
 
 **Sources:**

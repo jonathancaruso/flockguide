@@ -199,6 +199,24 @@ Start with good egg breeds, give them proper nutrition and housing, keep stress 
 
 For a broader overview of getting started with chickens, head over to our [Complete Beginner's Guide to Raising Backyard Chickens](/articles/beginners-guide-raising-backyard-chickens). And if you're still deciding [how many chickens to start with](/articles/how-many-chickens-should-a-beginner-start-with), we've got you covered there too.
 
+## Frequently Asked Questions
+
+### How long does it take for chickens to start laying eggs?
+
+Most hens start laying between 18 and 24 weeks old, depending on breed. Production breeds like Leghorns and ISA Browns tend to start on the earlier end. Heritage breeds sometimes take closer to 6 months. You'll know they're getting close when their combs turn bright red.
+
+### Why did my chickens stop laying eggs?
+
+The most common reasons are shorter daylight hours in winter, molting, stress, poor nutrition, or age. Hens naturally slow down after 2 to 3 years. Check that they're getting enough protein (16 to 18 percent layer feed) and at least 14 hours of light per day.
+
+### Do I need to wash fresh eggs before storing them?
+
+No. Fresh eggs have a natural protective coating called the bloom that keeps bacteria out. Leave them unwashed and they'll stay good on the counter for 2 to 3 weeks, or up to 3 months in the fridge. Only wash them right before you use them.
+
+### How many eggs does one chicken lay per week?
+
+It depends on the breed. High-production hens like ISA Browns lay 5 to 6 eggs per week. Heritage breeds average 3 to 5 per week. Egg production drops in winter and declines with age. Most hens lay best during their first two years.
+
 ---
 
 **Sources:**

@@ -230,4 +230,26 @@ Raising chicks isn't complicated, but it does require attention, especially in t
 
 If you're still in the planning phase, check out our [beginner's guide to raising backyard chickens](/articles/beginners-guide-raising-backyard-chickens) for the full picture, from choosing breeds to collecting your first eggs.
 
+## Frequently Asked Questions
+
+### What temperature should a brooder be for baby chicks?
+
+Start at 95°F for the first week, then reduce by 5 degrees each week until chicks are fully feathered around 6 weeks old. Use a thermometer at chick level to verify. If chicks huddle together, they're too cold. If they spread to the edges, it's too warm.
+
+### When can chicks go outside?
+
+Most chicks are ready for the outdoor coop at 6 to 8 weeks old when they're fully feathered. If nighttime temps still drop below 50°F, wait a bit longer or provide supplemental heat in the coop. Start with supervised outdoor time during the day at around 4 weeks.
+
+### Do baby chicks need a heat lamp or heat plate?
+
+Both work, but heat plates are safer. Heat lamps cause hundreds of coop fires every year and can overheat chicks. Heat plates mimic a mother hen, letting chicks warm up underneath and move away when they want. They cost a bit more but the safety difference is worth it.
+
+### What should I feed baby chicks?
+
+Start with chick starter feed (18 to 20 percent protein) from day one through 8 weeks. Then switch to grower feed (16 percent protein) until they start laying. Medicated starter helps prevent coccidiosis, which is one of the biggest chick killers. Always provide clean water with their feed.
+
+### How do I know if my chicks are healthy?
+
+Healthy chicks are active, eating and drinking regularly, and have clear eyes and clean vents. Watch for pasty butt (droppings stuck to the vent), lethargy, hunched posture, or bloody droppings. Catch problems early and you can usually fix them. Check on your chicks at least twice a day.
+
 **Affiliate Disclosure:** This article contains affiliate links to Amazon. If you buy something through these links, we earn a small commission at no extra cost to you. We only recommend products we believe in. [Full disclosure](/affiliate-disclosure).

@@ -186,6 +186,24 @@ There's also something meaningful about raising your own food from start to fini
 
 If you're brand new to chickens in general, it might make sense to start with an egg flock first and get comfortable with basic chicken care before adding meat birds to the mix. Our [Complete Beginner's Guide to Raising Backyard Chickens](/articles/beginners-guide-raising-backyard-chickens) is a great starting point. And our [Complete Chicken Feeding Guide](/articles/what-do-chickens-eat-complete-feeding-guide) covers the nutrition side in detail.
 
+## Frequently Asked Questions
+
+### How long does it take to raise a meat chicken?
+
+Cornish Cross broilers reach processing weight (5 to 7 pounds) in just 6 to 8 weeks. Heritage and dual-purpose breeds take longer, usually 12 to 16 weeks. Rangers and Freedom Rangers fall in between at 9 to 12 weeks. The faster breeds grow more efficiently but need more careful management.
+
+### How many meat chickens should I raise at a time?
+
+For a family of 4, plan on 15 to 25 birds per batch to stock your freezer for several months. Meat birds are easier to raise in larger groups since the per-bird cost drops with volume. Most people do 2 to 3 batches per year during warmer months.
+
+### Is it hard to butcher your own chickens?
+
+The first time is tough mentally, but the actual process isn't complicated. Most people get comfortable by their third or fourth bird. You'll need a kill cone, sharp knife, scalding pot, and a plucking setup. The whole process takes about 15 to 20 minutes per bird once you get the hang of it.
+
+### Can I raise meat chickens and egg layers together?
+
+You can, but they have different needs. Meat birds eat way more, grow faster, and need different feed ratios. Most people keep them in separate pens. Meat birds also aren't very active compared to layers, so they don't compete well for resources in a mixed flock.
+
 ---
 
 **Sources:**

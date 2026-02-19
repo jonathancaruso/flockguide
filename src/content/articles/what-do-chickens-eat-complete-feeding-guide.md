@@ -261,6 +261,28 @@ Is it cheaper than buying eggs at the store? Probably not, at least for the firs
 | 18+ weeks | Layer Feed | 16-18% | 3-4% | Add oyster shell on the side |
 | Molting | High-protein feed | 18-20% | Normal | Extra protein treats help |
 
+## Frequently Asked Questions
+
+### Can chickens eat table scraps?
+
+Yes, but in moderation. Fruits, vegetables, cooked rice, pasta, and bread are all fine as treats. Keep scraps to no more than 10 percent of their total diet so they still eat enough layer feed for balanced nutrition. Avoid anything salty, sugary, or processed.
+
+### How often should I feed my chickens?
+
+Most people keep feed available all day using a gravity feeder. Chickens self-regulate pretty well and won't typically overeat commercial feed. If you prefer scheduled feeding, morning and evening works fine. Just make sure they always have access to clean water.
+
+### What treats are best for chickens?
+
+Dried mealworms, black soldier fly larvae, and sunflower seeds are the top picks for protein-rich treats. Watermelon and berries are great in summer. Scrambled eggs are surprisingly excellent for them, especially during molt. Stick to natural, whole foods and skip processed snacks.
+
+### Do chickens need supplements besides feed?
+
+Laying hens need calcium beyond what's in layer feed. Offer crushed oyster shell free-choice in a separate container. All chickens that eat anything besides pellets need insoluble grit to grind food in their gizzard. Free-range birds usually pick up enough grit on their own.
+
+### Is organic chicken feed worth the extra cost?
+
+That depends on your priorities. Organic feed costs roughly 50 to 75 percent more than conventional feed. The eggs won't be dramatically different nutritionally. If avoiding pesticides and GMOs matters to you, it's worth it. If you're on a tight budget, conventional feed produces healthy chickens too.
+
 ## Related Articles
 
 - [Complete Beginner's Guide to Raising Backyard Chickens](/articles/beginners-guide-raising-backyard-chickens)
