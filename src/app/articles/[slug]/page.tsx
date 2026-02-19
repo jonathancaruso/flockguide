@@ -27,7 +27,7 @@ const markdownComponents: Components = {
   td: ({ children }) => <td className="px-4 py-3 text-gray-700">{children}</td>,
   img: ({ src, alt }) => (
     <figure className="my-8">
-      <img src={src || ''} alt={alt || ''} className="w-full rounded-xl shadow-md" loading="lazy" />
+      <Image src={String(src || '')} alt={alt || ''} width={800} height={500} className="w-full rounded-xl shadow-md" loading="lazy" />
       {alt && <figcaption className="mt-2 text-center text-sm text-gray-500 italic">{alt}</figcaption>}
     </figure>
   ),
