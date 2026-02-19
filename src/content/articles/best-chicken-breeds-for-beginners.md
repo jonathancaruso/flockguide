@@ -16,6 +16,8 @@ For beginners, you want a breed that checks as many boxes as possible: good egg 
 
 Here are our top 10 picks, based on feedback from experienced keepers and data from university poultry extension programs.
 
+![Rhode Island Red hen with rich mahogany feathers on a farm](/images/articles/rhode-island-red-hen.jpg)
+
 ## 1. Rhode Island Red
 
 If you could only pick one breed for a backyard flock, this would be it. Rhode Island Reds are the Toyota Camry of the chicken world: reliable, practical, and everywhere for a reason.
@@ -37,6 +39,8 @@ If you could only pick one breed for a backyard flock, this would be it. Rhode I
 | Cold Hardy | Excellent |
 | Heat Tolerant | Good |
 | Beginner Rating | ★★★★★ |
+
+![Buff Orpington chicken with golden plumage foraging on green grass](/images/articles/buff-orpington-chicken.jpg)
 
 ## 2. Buff Orpington
 

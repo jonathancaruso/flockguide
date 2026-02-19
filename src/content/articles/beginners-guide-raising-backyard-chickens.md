@@ -14,6 +14,8 @@ Raising backyard chickens is one of those things that sounds way more complicate
 
 This guide covers everything you need to get started, from checking your local laws to collecting your first egg. No prior experience needed.
 
+![Free-range chickens roaming in a backyard farmyard setting](/images/articles/free-range-chickens-farmyard.jpg)
+
 ## Check Your Local Laws First
 
 Before you do anything else, look up your city or county ordinances around keeping poultry. This is the step most people skip, and it can cause real problems later.
@@ -74,6 +76,8 @@ Here are five great starter breeds:
 Start with 3 to 6 birds. Chickens are social animals and need at least 2 companions, but 3 or more is better. Starting with one breed keeps things simple, but mixing breeds works fine too.
 
 You can read our full breakdown in [10 Best Chicken Breeds for Beginners](/articles/best-chicken-breeds-for-beginners).
+
+![Hand collecting fresh eggs from a nesting box filled with hay](/images/articles/chicken-coop-nesting-box-eggs.jpg)
 
 ## Setting Up Your Coop
 
@@ -156,6 +160,8 @@ Here's what actually takes up your time:
 - Check birds for mites or lice (look around the vent area and under wings)
 - Inspect the coop for holes, loose boards, or signs of predator attempts
 
+![Raccoon on a tree branch — a common backyard chicken predator](/images/articles/raccoon-chicken-predator.jpg)
+
 ## Predators: The Biggest Threat
 
 Predators are the number one cause of chicken loss for backyard keepers. Common predators include:
@@ -193,6 +199,8 @@ Find an avian vet in your area before you need one. Not all vets treat chickens,
 
 Here's a rough timeline of what your first year looks like:
 
+![Baby chicks in a brooder with wood shavings bedding](/images/articles/baby-chicks-in-brooder.jpg)
+
 **Weeks 1 to 6 (if starting with chicks):** Keep them in a brooder indoors with a heat lamp. Temperature starts at 95°F and drops 5 degrees per week. This is the messiest phase. They grow fast.
 
 **Weeks 6 to 8:** Move them to the coop (if nighttime temps are above 50°F and they're fully feathered). They will be awkward teenagers at this point.
@@ -204,6 +212,8 @@ Here's a rough timeline of what your first year looks like:
 **Months 6 to 12:** Full production. Most breeds lay 4 to 6 eggs per week at peak. You'll have more eggs than you know what to do with. Start giving them to neighbors.
 
 **First fall/winter:** Egg production drops when daylight hours decrease. This is normal. Some people add a light to the coop to maintain production, but letting them rest naturally is fine too. Your birds will go through their first molt (lose and regrow feathers), which looks alarming but is totally normal.
+
+![Fresh farm eggs collected in a rustic wicker basket](/images/articles/fresh-eggs-wicker-basket.jpg)
 
 ## How Much Does It All Cost?
 
