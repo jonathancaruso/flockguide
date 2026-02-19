@@ -12,6 +12,19 @@ import FAQSchema from '@/components/FAQSchema'
 import { extractH2s, extractFAQs } from '@/lib/markdown-utils'
 import type { Metadata } from 'next'
 
+// Extract text from React children (handles nested elements like <strong>)
+function extractText(node: React.ReactNode): string {
+  if (typeof node === 'string') return node
+  if (typeof node === 'number') return String(node)
+  if (!node) return ''
+  if (Array.isArray(node)) return node.map(extractText).join('')
+  if (typeof node === 'object' && node !== null && 'props' in node) {
+    const el = node as { props: { children?: React.ReactNode } }
+    return extractText(el.props.children)
+  }
+  return ''
+}
+
 // Markdown components styled for chicken site
 const markdownComponents: Components = {
   table: ({ children }) => (
@@ -40,7 +53,7 @@ const markdownComponents: Components = {
     </blockquote>
   ),
   h2: ({ children }) => {
-    const text = typeof children === 'string' ? children : Array.isArray(children) ? children.map(c => typeof c === 'string' ? c : '').join('') : ''
+    const text = extractText(children)
     const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
     return (
       <h2 id={id} className="text-2xl md:text-3xl font-bold text-gray-900 mt-12 mb-6 pb-3 border-b-2 border-farm-200 flex items-center gap-3 scroll-mt-20">
