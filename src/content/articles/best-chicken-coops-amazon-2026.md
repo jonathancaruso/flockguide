@@ -59,7 +59,7 @@ This is our top pick for most backyard flocks of 3 to 5 hens. Aivituvin has beco
 
 **Price range:** $200 to $350 depending on the size you choose.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Aivituvin+large+wooden+chicken+coop&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Aivituvin+large+wooden+chicken+coop&tag=flockguide-20)
 
 ## Best Budget: PawHut Wooden Chicken Coop with Run
 
@@ -84,7 +84,7 @@ If you're just getting started and don't want to spend $300+, PawHut makes a dec
 
 **Price range:** $130 to $200.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=PawHut+wooden+chicken+coop+with+run&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=PawHut+wooden+chicken+coop+with+run&tag=flockguide-20)
 
 ## Best for Larger Flocks: OverEZ Large Chicken Coop
 
@@ -110,7 +110,7 @@ When you have 6 to 10 birds and need real space, the OverEZ Large is one of the 
 
 **Price range:** $600 to $1,200 depending on the model.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=OverEZ+large+chicken+coop&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=OverEZ+large+chicken+coop&tag=flockguide-20)
 
 ## Best Mobile Coop (Chicken Tractor): SnapLock Formex Large Chicken Coop
 
@@ -136,7 +136,7 @@ If you want to move your coop around the yard so your birds can forage on fresh 
 
 **Price range:** $300 to $450.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=SnapLock+Formex+large+chicken+coop&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=SnapLock+Formex+large+chicken+coop&tag=flockguide-20)
 
 ## Best Coop with Large Run: Morgete Walk-In Chicken Coop
 
@@ -161,7 +161,7 @@ If you can't free-range your birds (maybe you have dogs, hawks, or local regulat
 
 **Price range:** $250 to $400.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Morgete+walk-in+chicken+coop+run&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Morgete+walk-in+chicken+coop+run&tag=flockguide-20)
 
 ![White chickens perched on roosting bars inside a wooden coop](/images/articles/chickens-roosting-bar-coop.jpg)
 
@@ -172,7 +172,7 @@ No matter which coop you buy, plan to make these upgrades:
 ### Replace Chicken Wire with Hardware Cloth
 Budget $20 to $40 for 1/2-inch hardware cloth and a box of cage clips. This is the single most important upgrade you can make. Raccoons, weasels, and rats can get through chicken wire easily.
 
-[Check Price on Amazon: Hardware Cloth](https://www.amazon.com/s?k=1%2F2+inch+hardware+cloth+chicken+coop&tag=backyardchx-20)
+[Check Price on Amazon: Hardware Cloth](https://www.amazon.com/s?k=1%2F2+inch+hardware+cloth+chicken+coop&tag=flockguide-20)
 
 ### Add Better Latches
 Replace any simple slide latches with carabiner clips or two-step latches. Takes 10 minutes and costs $5.
@@ -191,11 +191,11 @@ Once you have the coop, here are the accessories that actually make a difference
 
 **Automatic coop door** ($80 to $150). Opens at dawn, closes at dusk. Worth every penny if you don't want to walk out in your pajamas every morning and evening. We like the ChickenGuard and Omlet brands.
 
-[Check Price on Amazon: Automatic Chicken Coop Door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=backyardchx-20)
+[Check Price on Amazon: Automatic Chicken Coop Door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=flockguide-20)
 
 **Heated waterer base** ($25 to $50). Keeps water from freezing in winter. A must-have if you live anywhere that gets below freezing.
 
-[Check Price on Amazon: Heated Chicken Waterer](https://www.amazon.com/s?k=heated+chicken+waterer+base&tag=backyardchx-20)
+[Check Price on Amazon: Heated Chicken Waterer](https://www.amazon.com/s?k=heated+chicken+waterer+base&tag=flockguide-20)
 
 **Poop hammock or droppings tray** ($15 to $25). Goes under the roosting bar to catch droppings. Makes daily cleanup a 30-second job.
 

@@ -105,13 +105,13 @@ Here are some solid options that backyard chicken keepers trust:
 
 Manna Pro's organic layer pellets are USDA Certified Organic, non-GMO, and work for mixed flocks (chickens, ducks, turkeys). At 16% protein with added calcium, they cover the basics well. Available in 10-pound bags, which is perfect if you have a small flock and don't want to store a 50-pound bag.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Manna+Pro+Organic+Layer+Pellets&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Manna+Pro+Organic+Layer+Pellets&tag=flockguide-20)
 
 ### Nutrena Country Feeds 16% Layer Pellets
 
 A solid mid-range option from a brand with decades of experience in animal nutrition. 16% protein with a good vitamin and mineral balance. Comes in a 50-pound bag, which is the most economical way to buy feed if you have 4 or more birds.
 
-[Check Price on Amazon](https://www.amazon.com/s?k=Nutrena+Country+Feeds+Layer+Pellets&tag=backyardchx-20)
+[Check Price on Amazon](https://www.amazon.com/s?k=Nutrena+Country+Feeds+Layer+Pellets&tag=flockguide-20)
 
 **Affiliate Disclosure:** These are affiliate links. If you buy through them, we earn a small commission at no extra cost to you. We only recommend products we genuinely think are worth your money. [Full disclosure](/affiliate-disclosure).
 
@@ -125,7 +125,7 @@ Layer feed contains calcium, but some hens need more than what is in the feed, e
 
 Signs of calcium deficiency: thin or soft eggshells, shell-less eggs, or a drop in egg production.
 
-[Manna Pro Crushed Oyster Shell on Amazon](https://www.amazon.com/s?k=Manna+Pro+Crushed+Oyster+Shell+chickens&tag=backyardchx-20)
+[Manna Pro Crushed Oyster Shell on Amazon](https://www.amazon.com/s?k=Manna+Pro+Crushed+Oyster+Shell+chickens&tag=flockguide-20)
 
 ### Grit
 
@@ -137,7 +137,7 @@ There are two types:
 
 You want both available if your birds don't free range.
 
-[Manna Pro Chicken Grit on Amazon](https://www.amazon.com/s?k=Manna+Pro+chicken+grit+probiotics&tag=backyardchx-20)
+[Manna Pro Chicken Grit on Amazon](https://www.amazon.com/s?k=Manna+Pro+chicken+grit+probiotics&tag=flockguide-20)
 
 ### Apple Cider Vinegar
 
@@ -169,7 +169,7 @@ If you want to make your chickens love you, get a bag of dried mealworms. They w
 
 Just don't overdo it. A small handful per bird a few times a week is plenty.
 
-[Dried Mealworms for Chickens on Amazon](https://www.amazon.com/s?k=dried+mealworms+chickens+5+lb&tag=backyardchx-20)
+[Dried Mealworms for Chickens on Amazon](https://www.amazon.com/s?k=dried+mealworms+chickens+5+lb&tag=flockguide-20)
 
 ## Foods to NEVER Feed Your Chickens
 

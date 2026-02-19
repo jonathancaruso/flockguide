@@ -21,7 +21,7 @@ export function AffiliateProductCard({
   pros,
   cons,
   description,
-  tag = 'backyardchx-20',
+  tag = 'flockguide-20',
 }: AffiliateProductCardProps) {
   const url = buildAmazonSearchUrl(searchTerm, tag)
 

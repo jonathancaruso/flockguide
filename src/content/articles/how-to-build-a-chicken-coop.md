@@ -76,7 +76,7 @@ Use **1/2-inch galvanized hardware cloth** for all windows, vents, and the run. 
 
 For a basic coop and run, you'll need roughly 50 to 100 square feet of hardware cloth, depending on your design. A 36" x 100' roll gives you plenty for most builds.
 
-**Recommended:** [Thinkahead 1/2" Hardware Cloth, 19 Gauge, Hot-Dipped Galvanized](https://www.amazon.com/dp/B0BM45GHZV?tag=backyardchx-20) - This galvanized mesh resists rust and holds up well against predators. The 19-gauge wire is sturdy without being impossible to cut with regular tin snips.
+**Recommended:** [Thinkahead 1/2" Hardware Cloth, 19 Gauge, Hot-Dipped Galvanized](https://www.amazon.com/dp/B0BM45GHZV?tag=flockguide-20) - This galvanized mesh resists rust and holds up well against predators. The 19-gauge wire is sturdy without being impossible to cut with regular tin snips.
 
 ### Roofing
 
@@ -139,7 +139,7 @@ The pop door is the small chicken-sized door that connects the coop to the run. 
 
 Place it a few inches off the floor to keep bedding from spilling out. Add a small ramp with horizontal slats for traction so the chickens can walk up and down easily.
 
-If predators are a concern (and they should be), consider an [automatic chicken coop door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=backyardchx-20). These open at dawn and close at dusk, so you never have to worry about forgetting to lock up at night. They range from $50 to $150 and are one of the best quality-of-life upgrades you can add.
+If predators are a concern (and they should be), consider an [automatic chicken coop door](https://www.amazon.com/s?k=automatic+chicken+coop+door&tag=flockguide-20). These open at dawn and close at dusk, so you never have to worry about forgetting to lock up at night. They range from $50 to $150 and are one of the best quality-of-life upgrades you can add.
 
 ### A Human-Size Door
 
