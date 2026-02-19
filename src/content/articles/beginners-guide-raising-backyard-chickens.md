@@ -3,7 +3,7 @@ title: "Complete Beginner's Guide to Raising Backyard Chickens"
 description: "Everything you need to know before getting your first flock. Covers laws, coops, breeds, feeding, health, and what to expect in your first year."
 date: "2026-02-18"
 category: "Beginner Guides"
-image: ""
+image: "/images/articles/backyard-chickens-beginners-guide.jpg"
 ---
 
 # Complete Beginner's Guide to Raising Backyard Chickens

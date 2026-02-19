@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { getAllArticles } from '@/lib/articles'
 
 export const metadata = {
@@ -24,8 +25,20 @@ export default function ArticlesPage() {
               href={`/articles/${article.slug}`}
               className="bg-white rounded-xl shadow-sm hover:shadow-lg transition-shadow overflow-hidden group"
             >
-              <div className="h-40 bg-gradient-to-br from-farm-100 to-barn-100 flex items-center justify-center">
-                <span className="text-5xl opacity-40">🐔</span>
+              <div className="h-40 relative overflow-hidden">
+                {article.image ? (
+                  <Image
+                    src={article.image}
+                    alt={article.title}
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-300"
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                  />
+                ) : (
+                  <div className="h-full bg-gradient-to-br from-farm-100 to-barn-100 flex items-center justify-center">
+                    <span className="text-5xl opacity-40">🐔</span>
+                  </div>
+                )}
               </div>
               <div className="p-5">
                 <div className="flex items-center gap-2 mb-2">

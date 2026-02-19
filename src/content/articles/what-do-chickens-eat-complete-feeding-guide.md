@@ -3,7 +3,7 @@ title: "What Do Chickens Eat? Complete Feeding Guide"
 description: "A practical guide to feeding backyard chickens at every age, from chick starter to layer feed, treats, supplements, and foods to avoid."
 date: "2026-02-18"
 category: "Feed & Nutrition"
-image: ""
+image: "/images/articles/chickens-feeding.jpg"
 ---
 
 # What Do Chickens Eat? A Complete Feeding Guide

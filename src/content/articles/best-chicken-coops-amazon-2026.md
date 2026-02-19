@@ -3,7 +3,7 @@ title: "Best Chicken Coops You Can Buy on Amazon (2026)"
 description: "We looked at dozens of pre-made coops and picked the best options for different flock sizes and budgets. Plus what to look for and what to avoid."
 date: "2026-02-18"
 category: "Gear Reviews"
-image: ""
+image: "/images/articles/wooden-chicken-coop.jpg"
 ---
 
 # Best Chicken Coops You Can Buy on Amazon (2026)

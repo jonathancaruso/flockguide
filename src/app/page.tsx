@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Home() {
   const featuredArticles = [
@@ -8,6 +9,7 @@ export default function Home() {
       excerpt: 'Everything you need to know before getting your first flock. From picking breeds to building a coop to collecting your first eggs.',
       category: 'Beginner Guides',
       readTime: '12 min read',
+      image: '/images/articles/backyard-chickens-beginners-guide.jpg',
     },
     {
       slug: 'best-chicken-breeds-for-beginners',
@@ -15,6 +17,7 @@ export default function Home() {
       excerpt: 'Not all chickens are created equal. These 10 breeds are friendly, hardy, and lay plenty of eggs without giving you headaches.',
       category: 'Breeds',
       readTime: '11 min read',
+      image: '/images/articles/chicken-breeds-variety.jpg',
     },
     {
       slug: 'best-chicken-coops-amazon-2026',
@@ -22,6 +25,7 @@ export default function Home() {
       excerpt: 'We looked at dozens of pre-made coops so you do not have to. Here are the ones actually worth your money.',
       category: 'Gear Reviews',
       readTime: '9 min read',
+      image: '/images/articles/wooden-chicken-coop.jpg',
     },
   ]
 
@@ -38,8 +42,15 @@ export default function Home() {
     <div>
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-farm-700 to-farm-800 text-white overflow-hidden">
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0 bg-[url('/images/hero-pattern.svg')] bg-repeat opacity-20" />
+        <div className="absolute inset-0">
+          <Image
+            src="/images/hero-chickens.jpg"
+            alt="Backyard chickens in a farm setting"
+            fill
+            className="object-cover opacity-20"
+            priority
+            sizes="100vw"
+          />
         </div>
         <div className="relative max-w-6xl mx-auto px-4 py-16 md:py-24">
           <div className="max-w-3xl">
@@ -78,8 +89,14 @@ export default function Home() {
               href={`/articles/${article.slug}`}
               className="bg-white rounded-xl shadow-sm hover:shadow-lg transition-shadow overflow-hidden group"
             >
-              <div className="h-48 bg-gradient-to-br from-farm-100 to-barn-100 flex items-center justify-center">
-                <span className="text-6xl opacity-50">🐔</span>
+              <div className="h-48 relative overflow-hidden">
+                <Image
+                  src={article.image}
+                  alt={article.title}
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                />
               </div>
               <div className="p-6">
                 <div className="flex items-center gap-2 mb-2">

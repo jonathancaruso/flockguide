@@ -3,7 +3,7 @@ title: "10 Best Chicken Breeds for Beginners"
 description: "Picking your first breed matters. These 10 chickens are friendly, hardy, and great egg layers that won't give you headaches."
 date: "2026-02-18"
 category: "Breeds"
-image: ""
+image: "/images/articles/chicken-breeds-variety.jpg"
 ---
 
 # 10 Best Chicken Breeds for Beginners

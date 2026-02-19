@@ -3,7 +3,7 @@ title: "How to Build a Chicken Coop: Plans, Materials & Tips"
 description: "Step-by-step guide to building your own backyard chicken coop. Covers sizing, materials, ventilation, predator-proofing, and common mistakes to avoid."
 date: "2026-02-18"
 category: "Coops & Housing"
-image: ""
+image: "/images/articles/chickens-in-coop.jpg"
 ---
 
 # How to Build a Chicken Coop: Plans, Materials & Tips

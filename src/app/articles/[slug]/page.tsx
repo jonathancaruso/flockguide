@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
+import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -114,6 +115,18 @@ export default async function ArticlePage({ params }: PageProps) {
         </Link>
 
         <article className="bg-white rounded-2xl shadow-xl shadow-farm-100/50 overflow-hidden">
+          {article.image && (
+            <div className="relative h-64 md:h-80">
+              <Image
+                src={article.image}
+                alt={article.title}
+                fill
+                className="object-cover"
+                priority
+                sizes="(max-width: 896px) 100vw, 896px"
+              />
+            </div>
+          )}
           <header className="bg-gradient-to-br from-farm-600 via-farm-700 to-farm-800 px-8 md:px-12 py-10 md:py-14">
             <span className="bg-white/20 text-white text-xs font-medium px-3 py-1 rounded-full">
               {article.category}
