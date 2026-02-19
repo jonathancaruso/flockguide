@@ -94,7 +94,7 @@ export function AffiliateDisclosureBanner() {
     <div className="bg-barn-50 border border-barn-200 rounded-lg p-3 my-4 text-xs text-barn-700">
       <strong>Affiliate Disclosure:</strong> This page contains affiliate links. If you buy
       something through these links, we may earn a small commission at no extra cost to you.
-      We only recommend products we genuinely believe in.{' '}
+      We only recommend products we&apos;ve thoroughly researched.{' '}
       <a href="/affiliate-disclosure" className="underline">Learn more</a>.
     </div>
   )

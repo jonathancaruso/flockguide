@@ -20,15 +20,11 @@ export default function AffiliateDisclosurePage() {
           a product link and make a purchase, we may receive a small commission. This comes at
           no additional cost to you and helps support the creation of free content on this site.
         </p>
-        <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Our Promise</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">How We Pick Products</h2>
         <p>
-          We only recommend products that we have personally used, researched, or genuinely believe
-          will help you raise healthy, happy chickens. We will never recommend something solely
-          because of an affiliate relationship.
-        </p>
-        <p>
-          Our opinions are our own. Product reviews and recommendations are based on real-world
-          use, user reviews, and practical value for backyard chicken keepers.
+          Every product we recommend is researched through a mix of manufacturer specs, user reviews,
+          community feedback, and practical value for backyard chicken keepers. We never recommend
+          something just because it pays a commission.
         </p>
         <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">FTC Compliance</h2>
         <p>
