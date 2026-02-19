@@ -26,7 +26,7 @@ export async function POST(req: NextRequest) {
           'Authorization': `Bearer ${RESEND_API_KEY}`,
         },
         body: JSON.stringify({
-          from: 'FlockGuide <noreply@flockguide.com>',
+          from: 'FlockGuide <onboarding@resend.dev>',
           to: 'jcaruso09@gmail.com',
           subject: `FlockGuide Contact: ${name}`,
           text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
