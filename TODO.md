@@ -33,7 +33,7 @@
 - [x] "Chicken Coop Bedding: Pine Shavings vs Straw vs Sand"
 - [x] "How to Introduce New Chickens to Your Flock"
 - [x] "Rhode Island Red: Complete Breed Guide"
-- [ ] "Plymouth Rock: Complete Breed Guide"
+- [x] "Plymouth Rock: Complete Breed Guide"
 - [ ] "Buff Orpington: Complete Breed Guide"
 - [ ] "Australorp: Complete Breed Guide"
 - [ ] "Easter Egger: Complete Breed Guide"
