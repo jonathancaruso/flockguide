@@ -44,6 +44,7 @@
   - [x] Wyandotte: Complete Breed Guide (2026-02-19)
   - [x] Leghorn: Complete Breed Guide (2026-02-19)
 - [ ] Seasonal care series (spring, summer, fall, winter)
+  - [x] Spring Chicken Care: 10-Step Checklist (2026-02-19)
 - [ ] Troubleshooting guides (sick chicken symptoms, egg problems)
 - [ ] Advanced topics (hatching, roosters, free ranging)
 - [ ] More gear reviews (incubators, egg baskets, run netting, cameras)
