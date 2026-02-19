@@ -35,7 +35,7 @@
 - [x] "Rhode Island Red: Complete Breed Guide"
 - [x] "Plymouth Rock: Complete Breed Guide"
 - [x] "Buff Orpington: Complete Breed Guide"
-- [ ] "Australorp: Complete Breed Guide"
+- [x] "Australorp: Complete Breed Guide"
 - [ ] "Easter Egger: Complete Breed Guide"
 
 ## Phase 3: Expansion Content (30 more articles)
