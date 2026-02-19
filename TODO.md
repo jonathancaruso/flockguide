@@ -41,6 +41,7 @@
 ## Phase 3: Expansion Content (30 more articles)
 - [ ] More breed guides (aim for 20+ breeds)
   - [x] Silkie: Complete Breed Guide (2026-02-19)
+  - [x] Wyandotte: Complete Breed Guide (2026-02-19)
 - [ ] Seasonal care series (spring, summer, fall, winter)
 - [ ] Troubleshooting guides (sick chicken symptoms, egg problems)
 - [ ] Advanced topics (hatching, roosters, free ranging)
