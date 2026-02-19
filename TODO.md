@@ -1,25 +1,26 @@
 # TODO - Backyard Chickens Site
 
 ## Phase 1: Foundation (BUILD FIRST)
-- [ ] Scaffold Next.js 15 + Tailwind project
-- [ ] Design homepage (hero, featured articles, categories)
-- [ ] Build article layout component (markdown rendering, TOC, affiliate card component)
-- [ ] Build AffiliateProductCard component (image, title, price range, pros/cons, Amazon link)
-- [ ] Build breed profile template
-- [ ] Create category pages: Breeds, Coops & Housing, Feed & Nutrition, Health, Beginner Guides, Gear Reviews
-- [ ] Set up sitemap.xml and robots.txt
-- [ ] Add SEO meta tags, Open Graph, structured data (Article schema)
+- [x] Scaffold Next.js 15 + Tailwind project
+- [x] Design homepage (hero, featured articles, categories)
+- [x] Build article layout component (markdown rendering, TOC, affiliate card component)
+- [x] Build AffiliateProductCard component (image, title, price range, pros/cons, Amazon link)
+- [x] Build breed profile template
+- [x] Create category pages: Breeds, Coops & Housing, Feed & Nutrition, Health, Beginner Guides, Gear Reviews
+- [x] Set up sitemap.xml and robots.txt
+- [x] Add SEO meta tags, Open Graph, structured data (Article schema)
 - [ ] Favicon and branding (chicken/egg themed)
-- [ ] Mobile responsive design
-- [ ] Create .gitignore (standard + secrets)
-- [ ] Init git repo, push to GitHub
+- [x] Mobile responsive design
+- [x] Create .gitignore (standard + secrets)
+- [x] Init git repo
+- [ ] Push to GitHub
 - [ ] Deploy to Vercel
 
 ## Phase 2: Core Content (20 articles)
-- [ ] "Complete Beginner's Guide to Raising Backyard Chickens"
+- [x] "Complete Beginner's Guide to Raising Backyard Chickens"
 - [ ] "How to Build a Chicken Coop: Plans, Materials & Tips"
-- [ ] "10 Best Chicken Breeds for Beginners"
-- [ ] "Best Chicken Coops You Can Buy on Amazon (2026)"
+- [x] "10 Best Chicken Breeds for Beginners"
+- [x] "Best Chicken Coops You Can Buy on Amazon (2026)"
 - [ ] "What Do Chickens Eat? Complete Feeding Guide"
 - [ ] "How Many Chickens Should a Beginner Start With?"
 - [ ] "Raising Chicks: Week-by-Week Guide"
@@ -54,5 +55,5 @@
 
 ## Amazon Affiliate
 - [ ] Create Amazon Associates tag (need Jonathan to set up: `backyardchx-20` or similar)
-- [ ] Build affiliate link component with proper disclosure
-- [ ] Add FTC disclosure page
+- [x] Build affiliate link component with proper disclosure
+- [x] Add FTC disclosure page
