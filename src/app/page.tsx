@@ -22,7 +22,7 @@ export default function Home() {
     {
       slug: 'best-chicken-coops-amazon-2026',
       title: 'Best Chicken Coops You Can Buy on Amazon (2026)',
-      excerpt: 'We looked at dozens of pre-made coops so you don't have to. Here are the ones actually worth your money.',
+      excerpt: "We looked at dozens of pre-made coops so you don't have to. Here are the ones actually worth your money.",
       category: 'Gear Reviews',
       readTime: '9 min read',
       image: '/images/articles/wooden-chicken-coop.jpg',
@@ -30,7 +30,7 @@ export default function Home() {
   ]
 
   const categories = [
-    { name: 'Beginner Guides', slug: 'beginner-guides', emoji: '📖', desc: 'Start here if you're new to chickens' },
+    { name: 'Beginner Guides', slug: 'beginner-guides', emoji: '📖', desc: "Start here if you're new to chickens" },
     { name: 'Breeds', slug: 'breeds', emoji: '🐓', desc: 'Find the right breed for your flock' },
     { name: 'Coops & Housing', slug: 'coops-and-housing', emoji: '🏠', desc: 'Shelters, runs, and nesting boxes' },
     { name: 'Feed & Nutrition', slug: 'feed-and-nutrition', emoji: '🌽', desc: 'What to feed your birds and when' },

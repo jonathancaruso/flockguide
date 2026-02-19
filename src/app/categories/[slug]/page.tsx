@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
 
 const categories: Record<string, { name: string; description: string; emoji: string }> = {
   'beginner-guides': { name: 'Beginner Guides', description: 'New to chickens? Start here. We cover everything from picking your first breeds to collecting your first eggs.', emoji: '📖' },
-  'breeds': { name: 'Breeds', description: 'Detailed breed profiles with egg production stats, temperament, and whether they're right for your setup.', emoji: '🐓' },
+  'breeds': { name: 'Breeds', description: "Detailed breed profiles with egg production stats, temperament, and whether they're right for your setup.", emoji: '🐓' },
   'coops-and-housing': { name: 'Coops & Housing', description: 'Coop designs, run ideas, nesting boxes, and everything your birds need for shelter.', emoji: '🏠' },
   'feed-and-nutrition': { name: 'Feed & Nutrition', description: 'What to feed your chickens at every age, plus treats, supplements, and things to avoid.', emoji: '🌽' },
   'health': { name: 'Health', description: 'Spot problems early and keep your flock in top shape. Common diseases, parasites, and first aid.', emoji: '💊' },
