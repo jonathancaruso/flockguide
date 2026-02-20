@@ -51,6 +51,7 @@
 - [ ] Advanced topics (hatching, roosters, free ranging)
   - [x] How to Hatch Chicken Eggs: 21-Day Incubation Guide (2026-02-19)
   - [x] Do You Need a Rooster? Pros, Cons, and What to Expect (2026-02-19)
+  - [x] Free-Range Chickens: Complete Guide (2026-02-19)
 - [ ] More gear reviews (incubators, egg baskets, run netting, cameras)
 - [ ] State-specific content ("Raising Chickens in Georgia", laws by state)
 
