@@ -47,6 +47,7 @@
 - [ ] Seasonal care series (spring, summer, fall, winter)
   - [x] Spring Chicken Care: 10-Step Checklist (2026-02-19)
   - [x] Summer Chicken Care: How to Keep Your Flock Cool (2026-02-20)
+  - [x] Fall Chicken Care: 12 Steps to Prepare for Winter (2026-02-20)
 - [ ] Troubleshooting guides (sick chicken symptoms, egg problems)
   - [x] 12 Sick Chicken Symptoms Every Owner Should Recognize (2026-02-19)
   - [x] Chicken Egg Problems: 10 Common Issues and How to Fix Them (2026-02-19)
