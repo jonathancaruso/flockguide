@@ -45,6 +45,7 @@
   - [x] Leghorn: Complete Breed Guide (2026-02-19)
   - [x] Brahma: Complete Breed Guide (2026-02-20)
   - [x] Cochin: Complete Breed Guide (2026-02-20)
+  - [x] Sussex: Complete Breed Guide (2026-02-20)
 - [ ] Seasonal care series (spring, summer, fall, winter)
   - [x] Spring Chicken Care: 10-Step Checklist (2026-02-19)
   - [x] Summer Chicken Care: How to Keep Your Flock Cool (2026-02-20)
