@@ -50,6 +50,7 @@
   - [x] Chicken Egg Problems: 10 Common Issues and How to Fix Them (2026-02-19)
 - [ ] Advanced topics (hatching, roosters, free ranging)
   - [x] How to Hatch Chicken Eggs: 21-Day Incubation Guide (2026-02-19)
+  - [x] Do You Need a Rooster? Pros, Cons, and What to Expect (2026-02-19)
 - [ ] More gear reviews (incubators, egg baskets, run netting, cameras)
 - [ ] State-specific content ("Raising Chickens in Georgia", laws by state)
 
