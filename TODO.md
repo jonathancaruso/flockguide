@@ -67,6 +67,7 @@
   - [x] Best Chicken Coop Cameras 2026 (2026-02-20)
   - [x] Best Egg Collecting Baskets 2026 (2026-02-20)
 - [ ] State-specific content ("Raising Chickens in Georgia", laws by state)
+  - [x] Raising Chickens in Georgia: Laws, Breeds, Climate Tips (2026-02-20)
 
 ## Phase 4: Growth
 - [ ] Internal linking audit
