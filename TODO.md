@@ -54,6 +54,7 @@
   - [x] Free-Range Chickens: Complete Guide (2026-02-19)
 - [ ] More gear reviews (incubators, egg baskets, run netting, cameras)
   - [x] Best Chicken Egg Incubators 2026 Reviews (2026-02-19)
+  - [x] Best Chicken Run Fencing and Netting 2026 (2026-02-19)
 - [ ] State-specific content ("Raising Chickens in Georgia", laws by state)
 
 ## Phase 4: Growth
